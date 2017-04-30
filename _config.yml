@@ -13,12 +13,6 @@ baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "http://www.zac-heisey.com" # the base hostname & protocol for your site
 author:
 
-# Plugins
-gems:
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
-
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
