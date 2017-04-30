@@ -4,8 +4,7 @@ layout: home
 landing-title: Hi, my name is Forty
 description: This is the Jekyll Version of the Forty Theme by HTML5 UP.<br>You can
   edit this content in the `description` front matter<br>field of your index.md file.
-image: assets/images/banner.jpg
-author: 
+featured-image: assets/images/banner.jpg
 ---
 
 <!-- Two -->
