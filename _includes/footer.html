@@ -1,0 +1,105 @@
+<!-- Contact -->
+<section id="contact">
+	<div class="inner">
+		<section>
+			<form action="https://formspree.io/{{ site.data.footer_contact_info.email }}" method="POST">
+				<div class="field half first">
+					<label for="name">Name</label>
+					<input type="text" name="name" id="name" />
+				</div>
+				<div class="field half">
+					<label for="email">Email</label>
+					<input type="text" name="_replyto" id="email" />
+				</div>
+				<div class="field">
+					<label for="message">Message</label>
+					<textarea name="message" id="message" rows="6"></textarea>
+				</div>
+				<ul class="actions">
+					<li><input type="submit" value="Send Message" class="special" /></li>
+					<li><input type="reset" value="Clear" /></li>
+				</ul>
+			</form>
+		</section>
+		<section class="split">
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-envelope"></span>
+					<h3>Email</h3>
+					<a href="mailto:{{ site.data.footer_contact_info.email }}">{{ site.data.footer_contact_info.email }}</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-phone"></span>
+					<h3>Phone</h3>
+					<span>{{ site.data.footer_contact_info.phone }}</span>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-home"></span>
+					<h3>Address</h3>
+					<span>{{ site.data.footer_contact_info.street_address }}<br />
+					{{ site.data.footer_contact_info.city }}, {{ site.data.footer_contact_info.state }} {{ site.data.footer_contact_info.zip_code }}<br />
+					{{ site.data.footer_contact_info.country }}</span>
+				</div>
+			</section>
+		</section>
+	</div>
+</section>
+
+<!-- Footer -->
+	<footer id="footer">
+		<div class="inner">
+			<ul class="icons">
+				{% if site.data.footer_social_info.twitter_url and site.data.footer_social_info.twitter_url != "" %}
+				<li><a href="{{ site.data.footer_social_info.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+				{% endif %}
+				{% if site.data.footer_social_info.googleplus_url and site.data.footer_social_info.googleplus_url != "" %}
+				<li><a href="{{ site.data.footer_social_info.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
+				{% endif %}
+				{% if site.data.footer_social_info.facebook_url and site.data.footer_social_info.facebook_url != "" %}
+				<li><a href="{{ site.data.footer_social_info.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+				{% endif %}
+				{% if site.data.footer_social_info.instagram_url and site.data.footer_social_info.instagram_url != "" %}
+				<li><a href="{{ site.data.footer_social_info.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+				{% endif %}
+				{% if site.data.footer_social_info.pinterest_url and site.data.footer_social_info.pinterest_url != "" %}
+				<li><a href="{{ site.data.footer_social_info.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
+				{% endif %}
+				{% if site.data.footer_social_info.500px_url and site.data.footer_social_info.500px_url != "" %}
+				<li><a href="{{ site.data.footer_social_info.500px_url }}" class="icon alt fa-500px" target="_blank"><span class="label">500px</span></a></li>
+				{% endif %}
+				{% if site.data.footer_social_info.gitlab_url and site.data.footer_social_info.gitlab_url != "" %}
+				<li><a href="{{ site.data.footer_social_info.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
+				{% endif %}
+				{% if site.data.footer_social_info.github_url and site.data.footer_social_info.github_url != "" %}
+				<li><a href="{{ site.data.footer_social_info.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+				{% endif %}
+				{% if site.data.footer_social_info.slack_url and site.data.footer_social_info.slack_url != "" %}
+				<li><a href="{{ site.data.footer_social_info.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
+				{% endif %}
+				{% if site.data.footer_social_info.linkedin_url and site.data.footer_social_info.linkedin_url != "" %}
+				<li><a href="{{ site.data.footer_social_info.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+				{% endif %}
+			</ul>
+			<ul class="copyright">
+				<li>&copy; {{ site.data.site_settings_info.title }} {{ site.data.site_settings_info.subtitle }}</li>
+				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+
+			</ul>
+		</div>
+	</footer>
+
+</div>
+
+<!-- Scripts -->
+	<script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+	<script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.scrolly.min.js"></script>
+	<script src="{{ site.url }}{{ site.baseurl }}/assets/js/jquery.scrollex.min.js"></script>
+	<script src="{{ site.url }}{{ site.baseurl }}/assets/js/skel.min.js"></script>
+	<script src="{{ site.url }}{{ site.baseurl }}/assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="{{ site.url }}{{ site.baseurl }}/assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="{{ site.url }}{{ site.baseurl }}/assets/js/main.js"></script>
