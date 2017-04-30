@@ -2,7 +2,7 @@
 title: Generic
 layout: post
 description: Lorem ipsum dolor est
-featured-image: /uploads/images/pic11.jpg
+featured-image: "/uploads/images/pic11.jpg"
 ---
 
 This is a generic page. You'll find this page in the `root` directory of your Jekyll project. These types of generic pages work great as **About Us**, **Services**, **Team**, and other types of pages that contain content which doesn't need to be updated frequently.
