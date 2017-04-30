@@ -1,23 +1,34 @@
 ---
-layout: product
 title: Product
-description: This is a sample product page. You can add more products<br> in the _products directory of your Jekyll project.
+layout: product
+description: This is a sample product page. You can add more products<br> in the _products
+  directory of your Jekyll project.
 banner-image: assets/images/pic07.jpg
 primary-headline: Primary Headline
-primary-content: Here is where you can place your primary content, which can serve as an introduction to your products and services.
+primary-content: Here is where you can place your primary content, which can serve
+  as an introduction to your products and services.
 content-blocks:
 - heading: Orci maecenas
-  blurb: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
-  image: "assets/images/pic08.jpg"
-  link: "generic.html"
+  blurb: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed
+    nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed
+    magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat
+    tincidunt. Vivamus et sagittis tempus.
+  image: assets/images/pic08.jpg
+  link: generic.html
 - heading: Rhoncus magna
-  blurb: Vivamus et sagittis tempus. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt.
+  blurb: Vivamus et sagittis tempus. Nullam et orci eu lorem consequat tincidunt vivamus
+    et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.
+    Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam
+    et orci eu lorem consequat tincidunt.
   image: assets/images/pic09.jpg
-  link: "generic.html"
+  link: generic.html
 - heading: Sed nunc ligula
-  blurb: Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+  blurb: Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam
+    et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus
+    condimentum sem. In efficitur ligula tate urna. Nullam et orci eu lorem consequat
+    tincidunt. Vivamus et sagittis tempus.
   image: assets/images/pic10.jpg
-  link: "generic.html"
+  link: generic.html
 ---
 
 <!-- Three -->

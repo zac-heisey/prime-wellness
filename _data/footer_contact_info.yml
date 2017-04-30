@@ -4,6 +4,7 @@ city: Charlottetown
 state: PE
 zip_code: C1A 4A4
 country: Canada
-phone: (123) 456-7890
+phone: "(123) 456-7890"
 email: info@forestry.io
 ---
+
