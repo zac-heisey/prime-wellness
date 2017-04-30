@@ -1,17 +1,13 @@
 ---
+navmenu:
 - title: Home
-  url: /
-  priority: 1
+  url: "/"
 - title: Product
-  url: /products/sample-product
-  priority: 2
+  url: "/products/sample-product"
 - title: Generic
-  url: /generic.html
-  priority: 3
+  url: "/generic"
 - title: Elements
-  url: /elements.html
-  priority: 4
+  url: "/elements"
 - title: Blog
-  url: /blog.html
-  priority: 5
+  url: "/blog"
 ---

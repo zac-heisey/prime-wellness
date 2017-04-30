@@ -1,6 +1,6 @@
 <nav id="menu">
 	<ul class="links">
-    {% for navitem in site.data.menu_info | sort: 'priority' %}
+    {% for navitem in site.data.menu_info.navmenu %}
     <li><a href="{{ navitem.url | prepend: site.baseurl }}">{{ navitem.title }}</a></li>
     {% endfor %}
 	</ul>
