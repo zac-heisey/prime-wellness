@@ -1,13 +1,13 @@
 ---
 title: Home
 layout: home
-landing-title: Welcome to RISE Prime Wellness
+landing-title: RISE Prime Wellness
 description: We're hard at work putting together our website.<br> Please check back
   soon for updates, or feel free<br> to reach out to us for more information.
 featured-image: uploads/images/banner.jpg
 ---
 
-<!-- Two
+<!-- Two -->
 <section id="two">
 	<div class="inner">
 		<header class="major">
@@ -19,4 +19,3 @@ featured-image: uploads/images/banner.jpg
 		</ul>
 	</div>
 </section>
--->
