@@ -1,6 +1,6 @@
 ---
 title: Generic
-layout: post
+layout: page
 description: Lorem ipsum dolor est
 featured-image: uploads/images/pic11.jpg
 ---
