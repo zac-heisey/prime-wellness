@@ -2,13 +2,16 @@
 navmenu:
 - title: Home
   url: "/"
-- title: Product
-  url: "/products/sample-product"
-- title: Generic
-  url: "/generic"
-- title: Elements
-  url: "/elements"
+- title: About
+  url: "/about"
+- title: Yoga
+  url: "/yoga"
+- title: Cryotherapy
+  url: "/cryotherapy"
+- title: Physical Therapy
+  url: "/physical-therapy"
+- title: Insurance
+  url: "/insurance"
 - title: Blog
   url: "/blog"
 ---
-
