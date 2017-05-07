@@ -1,10 +1,11 @@
 ---
 title: Physical Therapy
-seo-title: Physical Therapy in San Diego
-layout: page
-description: We offer exclusive, 1-on-1 Physical Therapy in San Diego.
-seo-description: This content will be your META description, which helps with SEO.
+permalink: "/testing"
 featured-image: uploads/images/pic03.jpg
+description: We offer exclusive, 1-on-1 Physical Therapy in San Diego.
+seo-title: Physical Therapy in San Diego
+seo-description: This content will be your META description, which helps with SEO.
+layout: page
 ---
 
 This is a generic page. You'll find this page in the `root` directory of your Jekyll project. These types of generic pages work great as **About Us**, **Services**, **Team**, and other types of pages that contain content which doesn't need to be updated frequently.
