@@ -197,7 +197,7 @@
 			});
 
 		// Header.
-			// Hide header logo when scrolling past initial nav & before 'stick nav appears'
+			// Hide header logo when scrolling past initial nav & before 'sticky' nav appears
 			$window.on('scroll', function() {
 				if ($(this).scrollTop() > 100) {
 					$('#header .logo .symbol img').hide();
