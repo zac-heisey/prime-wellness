@@ -197,6 +197,15 @@
 			});
 
 		// Header.
+			// Hide header logo when scrolling past initial nav & before 'stick nav appears'
+			$window.on('scroll', function() {
+				if ($(this).scrollTop() > 100) {
+					$('#header .logo .symbol img').hide();
+				} else {
+					$('#header .logo .symbol img').show();
+				}
+			});
+
 			if (skel.vars.IEVersion < 9)
 				$header.removeClass('alt');
 
