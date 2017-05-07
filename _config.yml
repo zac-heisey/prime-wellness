@@ -50,7 +50,7 @@ url: https://prime-wellness.netlify.com
 baseurl:
 email: admin@riseprimewellness.com
 description: Welcome to RISE Prime Wellness in San Diego.
-tiles-source: posts
+tiles-source: pages
 tiles-count: 6
 markdown: kramdown
 permalinks: pretty
