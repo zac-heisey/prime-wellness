@@ -1,8 +1,9 @@
 ---
 title: About Us
-seo-title:
+seo-title: 
 layout: page
-description: Learn more about RISE Prime Wellness and our holistic approach to physical well-being.
+description: Learn more about RISE Prime Wellness and our holistic approach to physical
+  well-being.
 seo-description: This content will be your META description, which helps with SEO.
 featured-image: uploads/images/pic11.jpg
 ---

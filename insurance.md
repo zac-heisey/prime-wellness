@@ -3,7 +3,8 @@ title: Insurance
 seo-title: Health Insurance & Physical Therapy
 layout: page
 description: RISE Prime Wellness is partnered with multiple insurance providers.
-seo-description: RISE Prime Wellness is partnered with multiple insurance providers. We also offer affordable cash rates. Visit to learn more!
+seo-description: RISE Prime Wellness is partnered with multiple insurance providers.
+  We also offer affordable cash rates. Visit to learn more!
 featured-image: uploads/images/pic06.jpg
 ---
 

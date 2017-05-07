@@ -5,7 +5,7 @@ layout: home
 landing-title: RISE Prime Wellness
 description: We're hard at work putting together our website.<br> Please check back
   soon for updates, or feel free<br> to reach out to us for more information.
-seo-description:  
+seo-description: 
 featured-image: uploads/images/banner.jpg
 ---
 
