@@ -1,6 +1,5 @@
 ---
 title: Physical Therapy
-permalink: "/testing"
 featured-image: uploads/images/pic03.jpg
 description: We offer exclusive, 1-on-1 Physical Therapy in San Diego.
 seo-title: Physical Therapy in San Diego
