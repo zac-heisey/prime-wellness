@@ -21,6 +21,8 @@ defaults:
     featured-image: ''
     permalink: "/:categories/:title"
     description: ''
+    seo-title: ''
+    seo-description: ''
 - scope:
     path: ''
     type: pages
