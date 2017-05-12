@@ -17,21 +17,21 @@ defaults:
     type: posts
   values:
     layout: post
-    categories: blog
-    featured-image: ''
-    permalink: "/:categories/:title"
     description: ''
+    categories: blog
     seo-title: ''
     seo-description: ''
+    featured-image: ''
+    permalink: "/:categories/:title"
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-    featured-image: ''
     description: ''
     seo-title: ''
     seo-description: ''
+    featured-image: ''
 - scope:
     path: ''
     type: products
@@ -47,7 +47,7 @@ defaults:
       image: ''
       link: ''
 url: https://prime-wellness.netlify.com
-baseurl: 
+baseurl:
 email: admin@riseprimewellness.com
 description: Welcome to RISE Prime Wellness in San Diego.
 tiles-source: pages
