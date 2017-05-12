@@ -1,10 +1,13 @@
 ---
 title: Home
 layout: home
-landing-title: <strong>Experience</strong> the Difference
+landing-title: "<strong>Experience</strong> the Difference"
 seo-title: Yoga, Cryotherapy, and Physical Therapy
-description: Thanks for visiting RISE Prime Wellness. We're hard at work <br> building our website. Please check back soon for updates,<br> or feel free to reach out to us for more information.
-seo-description: RISE Prime Wellness provides physical therapy, yoga, and cryotherapy treatment in San Diego. We're creating a new approach to holistic health and wellness.
+description: Thanks for visiting RISE Prime Wellness. We're hard at work <br> building
+  our website. Please check back soon for updates,<br> or feel free to reach out to
+  us for more information.
+seo-description: RISE Prime Wellness provides physical therapy, yoga, and cryotherapy
+  treatment in San Diego. We're creating a new approach to holistic health and wellness.
 featured-image: uploads/images/banner.jpg
 ---
 

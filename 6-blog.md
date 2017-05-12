@@ -1,11 +1,13 @@
 ---
 title: Blog
+permalink: "/blog/"
 layout: page
-description:
+description: 
 seo-title: Health & Wellness Blog
-seo-description: Guides, articles, and other resources related to physical therapy, yoga, cryotherapy, fitness, nutrition, and more. Check out the RISE Prime Wellness blog.
+seo-description: Guides, articles, and other resources related to physical therapy,
+  yoga, cryotherapy, fitness, nutrition, and more. Check out the RISE Prime Wellness
+  blog.
 featured-image: uploads/images/pic05.jpg
-permalink: /blog/
 ---
 
 Welcome to the RISE Prime Wellness blog. Our goal is provide useful resources related to physical therapy, yoga, cryotherapy, fitness, nutrition, fitness, and general health and wellness. Enjoy!

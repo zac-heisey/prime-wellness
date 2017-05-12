@@ -1,11 +1,11 @@
 ---
 title: Yoga
+permalink: "/yoga"
 layout: page
 description: Yoga Practice at RISE Prime Wellness.
 seo-title: Yoga in San Diego
 seo-description: This content will be your META description, which helps with SEO.
 featured-image: uploads/images/pic02.jpg
-permalink: /yoga
 ---
 
 This is a generic page. You'll find this page in the `root` directory of your Jekyll project. These types of generic pages work great as **About Us**, **Services**, **Team**, and other types of pages that contain content which doesn't need to be updated frequently.

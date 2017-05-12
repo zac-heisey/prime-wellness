@@ -1,12 +1,12 @@
 ---
 title: About Us
+permalink: "/about"
 layout: page
 description: Learn more about RISE Prime Wellness and our holistic approach to physical
   well-being.
-seo-title:
+seo-title: 
 seo-description: This content will be your META description, which helps with SEO.
 featured-image: uploads/images/pic11.jpg
-permalink: /about
 ---
 
 This is a generic page. You'll find this page in the `root` directory of your Jekyll project. These types of generic pages work great as **About Us**, **Services**, **Team**, and other types of pages that contain content which doesn't need to be updated frequently.
