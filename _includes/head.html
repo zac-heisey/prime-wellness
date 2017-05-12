@@ -2,7 +2,9 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>{% if page.seo-title != '' %}{{ page.seo-title }} | {{ site.data.site_settings_info.title }} {{site.data.site_settings_info.subtitle}}{% elsif page.title %}{{ page.title }} | {{ site.data.site_settings_info.title }} {{site.data.site_settings_info.subtitle}}{% else %}{{ site.data.site_settings_info.title | escape }}{% endif %}</title>
+	<title>{% if page.seo-title != '' %}{{ page.seo-title }} | {{ site.title }} {{site.subtitle}}
+	{% elsif page.title %}{{ page.title }} | {{ site.title }} {{site.subtitle}}
+	{% else %}{{ site.title | escape }}{% endif %}</title>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta name="description" content="{% if page.seo-description != '' %}{{ page.seo-description | strip_html | strip_newlines | truncate: 160 }}{% elsif page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.site_settings_info.description }}{% endif %}">

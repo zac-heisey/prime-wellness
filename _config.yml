@@ -1,5 +1,6 @@
 ---
 title: DEV_RISE Prime Wellness
+subtitle: Prime Wellness
 timezone: UTC
 collections:
   posts:
@@ -49,7 +50,8 @@ defaults:
 url: https://prime-wellness.netlify.com
 baseurl:
 email: admin@riseprimewellness.com
-description: Welcome to RISE Prime Wellness in San Diego.
+description: Welcome to RISE Prime Wellness in San Diego. Visit us online to learn more about physical therapy, yoga, and cryotherapy treatment options.
+logo_image: uploads/images/rise-prime-logo.svg
 tiles-source: pages
 tiles-count: 6
 markdown: kramdown
