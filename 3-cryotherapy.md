@@ -1,8 +1,9 @@
 ---
 title: Cryotherapy
-seo-title: Cryotherapy in San Diego
+permalink: "/cryotherapy"
 layout: page
 description: We're the premier provider of cryotherapy in San Diego.
+seo-title: Cryotherapy in San Diego
 seo-description: This content will be your META description, which helps with SEO.
 featured-image: uploads/images/pic03.jpg
 ---
