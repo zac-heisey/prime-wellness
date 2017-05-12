@@ -1,11 +1,12 @@
 ---
-title: Insurance
-seo-title: Health Insurance & Physical Therapy
+title: About Us
 layout: page
-description: RISE Prime Wellness is partnered with multiple insurance providers.
-seo-description: RISE Prime Wellness is partnered with multiple insurance providers.
-  We also offer affordable cash rates. Visit to learn more!
-featured-image: uploads/images/pic06.jpg
+description: Learn more about RISE Prime Wellness and our holistic approach to physical
+  well-being.
+seo-title:
+seo-description: This content will be your META description, which helps with SEO.
+featured-image: uploads/images/pic11.jpg
+permalink: /about
 ---
 
 This is a generic page. You'll find this page in the `root` directory of your Jekyll project. These types of generic pages work great as **About Us**, **Services**, **Team**, and other types of pages that contain content which doesn't need to be updated frequently.
