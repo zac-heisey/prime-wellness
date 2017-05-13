@@ -8,15 +8,48 @@ seo-description: This content will be your META description, which helps with SE
 featured-image: uploads/images/pic03.jpg
 ---
 
-This is a generic page. You'll find this page in the `root` directory of your Jekyll project. These types of generic pages work great as **About Us**, **Services**, **Team**, and other types of pages that contain content which doesn't need to be updated frequently.
+Cryotherapy is a relatively new treatment option that ...
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis.
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum.
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus.
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
-Pellentesque aliquam maximus risus, vel sed vehicula.
+Whole body cryotherapy is .....
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit.
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Cryotherapy has several applications in the areas of athletic training, recovery, injury rehabilitation, health, and general wellness. Some of the primary user cases of cryotherapy include:
+
+<section id="flex-section">
+  <ul class="cryo-use-list">
+    <h2>Sports and Fitness</h2>
+    <li>Decreases Muscle Soreness, Pain and Inflammation</li>
+    <li>Reduces Delayed Onset Muscle Soreness (DOMS)</li>
+    <li>Increase Energy and Peak Athletic Performance</li>
+    <li>Allows for immediate post-therapy sports activity</li>
+    <li>Allows more intense and higher volume training</li>
+    <li>Boosts Lymph Draining and Blood Circulation</li>
+    <li>Improves Muscle Strength and Joint Function</li>
+    <li>Overall faster return to sports training</li>
+    <li>Decreases Injury Recovery Time</li>
+    <li>Improves immune system</li>
+    <li>Decreases fatigue</li>
+  </ul>
+  <ul class="cryo-use-list">
+    <h2>Health and Wellness</h2>
+    <li>Muscle Pain & Inflammation</li>
+    <li>Depression & Mood Disorders</li>
+    <li>Immune System Improvement</li>
+    <li>Delayed Onset Muscle Soreness</li>
+    <li>Central Nervous System Disease</li>
+    <li>Degenerative Disease of Joints & Spine</li>
+    <li>Inflammation of Tendons, Bursa, Joint Capsules</li>
+  </ul>
+  <ul class="cryo-use-list">
+    <h2>Beauty and Spa</h2>
+    <li>Cellulite Reduction</li>
+    <li>Tighter and Healthier Skin</li>
+    <li>Stronger and Fuller Hair & Nails</li>
+    <li>Fewer Skin Blemishes</li>
+    <li>Increased Metabolism & Caloric Burn</li>
+    <li>Increased Libido</li>
+    <li>Increased Collagen Production</li>
+    <li>Quicker Surgical Recovery</li>
+    <li>Treatment of Psoriasis and Dermatitis</li>
+    <li>Boosts Lymph Draining and Blood Circulation</li>
+    <li>Activates Natural Biological Regeneration</li>
+  </ul>
