@@ -2,8 +2,10 @@
 title: Thank You
 permalink: "/thank-you"
 layout: page
-description: Thanks for reaching out to RISE Prime Wellness! We'll be in touch soon<br> to schedule your evaluation with a certified physical therapist, <br>yoga instructor, or wellness practitioner.
-seo-title:
+description: Thanks for reaching out to RISE Prime Wellness! We'll be in touch soon<br>
+  to schedule your evaluation with a certified physical therapist, <br>yoga instructor,
+  or wellness practitioner.
+seo-title: 
 seo-description: This content will be your META description, which helps with SEO.
 featured-image: uploads/images/pic11.jpg
 ---
