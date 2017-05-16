@@ -2,7 +2,8 @@
 title: Blog
 permalink: "/blog/"
 layout: page
-description: Useful resources related to physical therapy, yoga, cryotherapy,<br> nutrition, fitness, and general health and wellness.
+description: Useful resources related to physical therapy, yoga, cryotherapy,<br>
+  nutrition, fitness, and general health and wellness.
 seo-title: Health & Wellness Blog
 seo-description: Guides, articles, and other resources related to physical therapy,
   yoga, cryotherapy, fitness, nutrition, and more. Check out the RISE Prime Wellness
