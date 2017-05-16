@@ -6,7 +6,7 @@ description: We offer exclusive, 1-on-1 Physical Therapy in San Diego.
 seo-title: Physical Therapy in San Diego
 seo-description: RISE Prime Wellness provides premier 1-on-1 physical therapy treatment
   to patients throughout San Diego County. Visit today to learn more!
-featured-image: uploads/images/pic03.jpg
+featured-image: uploads/images/stretch.jpg
 ---
 
 This is a generic page. You'll find this page in the `root` directory of your Jekyll project. These types of generic pages work great as **About Us**, **Services**, **Team**, and other types of pages that contain content which doesn't need to be updated frequently.

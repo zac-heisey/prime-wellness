@@ -5,7 +5,7 @@ layout: page
 description: We're the premier provider of cryotherapy in San Diego.
 seo-title: Cryotherapy in San Diego
 seo-description: This content will be your META description, which helps with SEO.
-featured-image: uploads/images/pic03.jpg
+featured-image: uploads/images/cryotherapy.jpg
 ---
 
 Cryotherapy is a relatively new treatment option that ...

@@ -6,7 +6,7 @@ description: RISE Prime Wellness is partnered with multiple insurance providers.
 seo-title: Health Insurance & Physical Therapy
 seo-description: RISE Prime Wellness is partnered with multiple insurance providers.
   We also offer affordable cash rates. Visit to learn more!
-featured-image: uploads/images/pic06.jpg
+featured-image: uploads/images/swimmer.jpg
 ---
 
 This is a generic page. You'll find this page in the `root` directory of your Jekyll project. These types of generic pages work great as **About Us**, **Services**, **Team**, and other types of pages that contain content which doesn't need to be updated frequently.
