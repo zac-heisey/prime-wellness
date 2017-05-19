@@ -11,13 +11,13 @@ seo-description: RISE Prime Wellness provides physical therapy, yoga, and cryoth
 featured-image: uploads/images/banner.jpg
 ---
 
-<!-- Two -->
-<section id="two">
+<!-- Mindbody Section -->
+<section id="mindbody">
 	<div class="inner">
 		<header class="major">
-			<h2>Sample Product Page</h2>
+			<h2>MINDBODY Integration Here</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>This is where we can include some information about booking an appointment, paying online, etc..</p>
 		<ul class="actions">
 			<li><a href="products/sample-product" class="button next">Get Started</a></li>
 		</ul>
