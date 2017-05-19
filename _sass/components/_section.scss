@@ -12,11 +12,17 @@
 		}
 	}
 
-	section#flex-section {
-		display: flex;
-		flex-direction: row;
-		justify-content: space-between;
-		flex-wrap: nowrap;
+	section {
+		&#flex-section {
+			display: flex;
+			flex-direction: row;
+			justify-content: space-between;
+			flex-wrap: nowrap;
+		}
+
+		&.blog {
+			margin-top: 6em;
+		}
 	}
 
 	header {
