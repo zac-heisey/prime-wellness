@@ -197,6 +197,9 @@
 			});
 
 		// Header.
+			// Hide strong + subtitle header text on pageload
+			// $('#header .logo strong').hide()
+
 			// Hide header logo when scrolling past initial nav & before 'sticky' nav appears
 			$window.on('scroll', function() {
 				if ($(this).scrollTop() > 100) {
