@@ -197,15 +197,15 @@
 			});
 
 		// Header.
-			// Hide strong + subtitle header text on pageload
-			// $('#header .logo strong').hide()
-
-			// Hide header logo when scrolling past initial nav & before 'sticky' nav appears
 			$window.on('scroll', function() {
-				if ($(this).scrollTop() > 100) {
-					$('#header .logo .symbol img').hide();
-				} else {
-					$('#header .logo .symbol img').show();
+				if ($(this).scrollTop() < 100) { // If user is less than 100px from top of the browser window
+					$('#header .logo .symbol img').show(); // Show logo image
+					$('#header .logo strong').hide(); // Hide strong header text
+					$('#header span#subtitle').hide(); // Hide subtitle header text
+				} else { // If user is more than 100px from top of browser window
+					$('#header .logo .symbol img').hide(); // Hide logo image
+					$('#header .logo strong').show(); // Show strong header text
+					$('#header span#subtitle').show(); // Show subtitle header text
 				}
 			});
 
