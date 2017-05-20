@@ -1,10 +1,9 @@
 ---
-street_address: 31 Queen Street
-city: Charlottetown
-state: PE
-zip_code: C1A 4A4
-country: Canada
+street_address: 123 First Street
+city: San Diego
+state: CA
+zip_code: 92108
+country:
 phone: "(123) 456-7890"
-email: info@forestry.io
+email: info@riseprimewellness.com
 ---
-
