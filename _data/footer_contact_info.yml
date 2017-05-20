@@ -3,7 +3,8 @@ street_address: 123 First Street
 city: San Diego
 state: CA
 zip_code: 92108
-country:
+country: 
 phone: "(123) 456-7890"
 email: info@riseprimewellness.com
 ---
+

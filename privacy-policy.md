@@ -3,9 +3,9 @@ title: Privacy Policy
 permalink: "/privacy-policy"
 layout: page
 description: RISE Prime Wellness Privacy Policy.
-seo-title:
-seo-description:
-featured-image:
+seo-title: 
+seo-description: 
+featured-image: 
 ---
 
 RISE Prime Wellness respects your right to privacy and will protect it when you visit our web site. Here are some things you should know about how we protect your privacy.
