@@ -23,6 +23,12 @@
 		&.blog {
 			margin-top: 6em;
 		}
+
+		@include breakpoint(medium) {
+			&#flex-section {
+				flex-wrap: wrap;
+			}
+		}
 	}
 
 	header {
