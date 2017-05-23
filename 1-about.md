@@ -4,7 +4,7 @@ permalink: "/about"
 layout: page
 description: Learn more about RISE Prime Wellness and our holistic approach to physical
   well-being.
-seo-title: 
+seo-title:
 seo-description: This content will be your META description, which helps with SEO.
 featured-image: uploads/images/team.jpg
 ---
@@ -14,7 +14,7 @@ At RISE Prime Wellness, we believe in an individualized, holistic approach to he
 <section id="flex-section">
   <ul class="about-us-list">
     <h2>Physical Therapy</h2>
-    <li>Decrease biomechanical deficiencies and inefficiences in order to decreased pain and lower the risk of injury.</li>
+    <li>Decrease biomechanical deficiencies and inefficiencies in order to decreased pain and lower the risk of injury.</li>
     <li>Increasing functional, activity-specific flexibility, mobility, strength, speed, power, and endurance.</li>
     <li>TBD</li>
   </ul>
