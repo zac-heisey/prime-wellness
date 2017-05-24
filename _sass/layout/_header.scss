@@ -50,6 +50,12 @@
 					vertical-align: middle;
 					margin-right: 1.5em;
 				}
+
+				@include breakpoint(small) {
+					img {
+						max-width: 40%;
+					}
+				}
 			}
 
 			strong {
