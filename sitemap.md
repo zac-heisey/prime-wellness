@@ -3,9 +3,9 @@ title: Sitemap
 permalink: "/sitemap"
 layout: page
 description: RISE Prime Wellness Sitemap.
-seo-title: 
-seo-description: 
-featured-image: 
+seo-title:
+seo-description:
+featured-image:
 ---
 
 ### Pages
@@ -15,7 +15,7 @@ featured-image:
 - [Yoga]({{ site.url }}/yoga)
 - [Cryotherapy]({{ site.url }}/cryotherapy)
 - [Physical Therapy]({{ site.url }}/physical-therapy)
-- [Health Insurance]({{ site.url }}/insurance)
+- [Other Services]({{ site.url }}/other-services)
 - [Contact RISE Prime Wellness]({{ site.url }}/#contact)
 
 ### Blog

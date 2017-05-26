@@ -10,9 +10,8 @@ navmenu:
   url: "/cryotherapy"
 - title: Physical Therapy
   url: "/physical-therapy"
-- title: Insurance
-  url: "/insurance"
+- title: Other Services
+  url: "/other-services"
 - title: Blog
   url: "/blog"
 ---
-
