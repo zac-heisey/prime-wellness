@@ -2,7 +2,7 @@
 title: Home
 layout: home
 landing-title: Experience the <span class="zapfino">Difference</span>
-seo-title: Yoga, Cryotherapy, and Physical Therapy
+seo-title: Health & Wellness Clinic San Diego
 description: Thanks for visiting RISE Prime Wellness. We're hard at work <br> building
   our website. Please check back soon for updates,<br> or feel free to reach out to
   us for more information.
