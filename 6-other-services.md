@@ -2,7 +2,8 @@
 title: Other Services
 permalink: "/other-services"
 layout: page
-description: RISE Prime Wellness also offers group fitness classes, personal training, and more.
+description: RISE Prime Wellness also offers group fitness classes, personal training,
+  and more.
 seo-title: Health Insurance & Physical Therapy
 seo-description: RISE Prime Wellness is partnered with multiple insurance providers.
   We also offer affordable cash rates. Visit to learn more!

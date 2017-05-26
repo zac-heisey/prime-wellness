@@ -3,9 +3,9 @@ title: Sitemap
 permalink: "/sitemap"
 layout: page
 description: RISE Prime Wellness Sitemap.
-seo-title:
-seo-description:
-featured-image:
+seo-title: 
+seo-description: 
+featured-image: 
 ---
 
 ### Pages
