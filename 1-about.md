@@ -4,12 +4,16 @@ permalink: "/about"
 layout: page
 description: Learn more about RISE Prime Wellness and our holistic approach to physical
   well-being.
-seo-title: 
+seo-title:
 seo-description: This content will be your META description, which helps with SEO.
 featured-image: uploads/images/team.jpg
 ---
 
 At RISE Prime Wellness, we believe in an individualized, holistic approach to health and wellness. In order to truly provide an environment of healing and growth for the mind, body, and spirit, we've developed a unique framework built upon three of the most effective wellness disciplines: **physical therapy**, **cryotherapy**, and **yoga**.
+
+<div style="text-align:center;">
+  <img src="/uploads/images/prime-wellness-diagram.png">
+</div>
 
 <section id="flex-section">
   <ul class="about-us-list">
