@@ -4,7 +4,7 @@ permalink: "/about"
 layout: page
 description: Learn more about RISE Prime Wellness and our holistic approach to physical
   well-being.
-seo-title:
+seo-title: 
 seo-description: This content will be your META description, which helps with SEO.
 featured-image: uploads/images/team.jpg
 ---
