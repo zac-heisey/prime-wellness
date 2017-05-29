@@ -11,7 +11,7 @@ seo-description: RISE Prime Wellness provides physical therapy, yoga, and cryoth
 featured-image: uploads/images/banner.jpg
 ---
 
-<!-- Mindbody Section -->
+<!-- Mindbody Section
 <section id="mindbody">
 	<div class="inner">
 		<header class="major">
@@ -23,3 +23,4 @@ featured-image: uploads/images/banner.jpg
 		</ul>
 	</div>
 </section>
+-->

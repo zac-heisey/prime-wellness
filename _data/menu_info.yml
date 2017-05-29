@@ -12,7 +12,8 @@ navmenu:
   url: "/physical-therapy"
 - title: Other Services
   url: "/other-services"
+- title: Schedule Session
+  url: "/#mindbody"
 - title: Blog
   url: "/blog"
 ---
-
