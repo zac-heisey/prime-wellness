@@ -8,9 +8,9 @@ seo-description: This content will be your META description, which helps with SE
 featured-image: uploads/images/cryotherapy.jpg
 ---
 
-Cryotherapy is a relatively new treatment option that ...
+Cryotherapy is a treatment modality that has been around for hundreds of years, but it hasn’t been until recently that medicine has tapped into its vast benefits.
 
-Whole body cryotherapy is .....
+Whole Body Cryotherapy is a process by which a person enters a chamber with the goal of dropping the skin temperature by ~30 degrees Fahrenheit. As a result, the underlying tissues experience a massive influx of blood flow leading to extreme benefits physically, psychologically, mentally, and emotionally.
 
 Cryotherapy has several applications in the areas of athletic training, recovery, injury rehabilitation, health, and general wellness. Some of the primary user cases of cryotherapy include:
 
