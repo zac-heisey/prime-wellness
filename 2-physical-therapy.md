@@ -9,15 +9,14 @@ seo-description: RISE Prime Wellness provides premier 1-on-1 physical therapy tr
 featured-image: uploads/images/stretch.jpg
 ---
 
-This is a generic page. You'll find this page in the `root` directory of your Jekyll project. These types of generic pages work great as **About Us**, **Services**, **Team**, and other types of pages that contain content which doesn't need to be updated frequently.
+The physical therapy pillar of RISE Prime Wellness is unlike any other approach. Our goal is to bring patients into the comprehensive medical management model and create a foundation for success. All of our sessions are one-on-one without the use of any aides or assistants. By completing an initial evaluation with one of our physical therapists, you're able to identify and eliminate factors that hinder your daily life or impede your progress towards your health & wellness goals.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis.
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum.
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus.
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus.
-Pellentesque aliquam maximus risus, vel sed vehicula.
+Because [RISE Prime Wellness](/) is an Out-Of-Network physical therapy provider, we're able to offer a personalized treatment experience that is unique to you. Unlike most traditional courses of physical therapy, our multidiscplined providers are trained and skilled in the art of managing your care across a variety of health & wellness services such as [yoga](/yoga), [cryotherapy](/cryotherapy), massage therapy, naturopathic medicine, and [more](/other-servicex).
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis.
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit.
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+As a result, you won’t be scheduled for multiple sessions per week for your care. If our therapists determine that a more comprehensive physical therapy intensive approach is needed, then we will discuss having you attend one of our sister clinics in order to utilize your in-network physical therapy benefits.
+
+Our goal is to work with individuals and groups that are looking for a more holistic approach to care and we have chosen to be an Out-Of-Network provider in order to facilitate the use of other modalities that will benefit your care, all while under the guidance of a Doctor of Physical Therapy.
+
+At the completion of your care, you will be provided with a “Super Bill” which you will be able to submit to your insurance in order to receive reimbursement for your care.
+
+To learn more about our physical therapy services please [get in touch with us](#contact) or [schedule an appointment](#mindbody) today.
