@@ -1,11 +1,12 @@
 ---
 title: Yoga
 permalink: "/yoga"
-layout: page
 description: Yoga Practice at RISE Prime Wellness.
 seo-title: Yoga in San Diego
-seo-description: This content will be your META description, which helps with SEO.
+seo-description: RISE Prime Wellness aims to be the revolution in holistic yoga practice.
+  We offer small group yoga, as well specialized yoga classes and courses.
 featured-image: uploads/images/yoga01.jpg
+layout: page
 ---
 
 Yoga has been offered by thousands of practitioners in a variety of settings. Our goal at RISE Prime Wellness is to enhance the positive effects of yoga by providing complimentary health & wellness services and treatment options on top of a consistent yoga routine.
