@@ -84,6 +84,11 @@
 
 				&:last-child {
 					padding-right: 0;
+
+					@include breakpoint(xsmall) {
+						margin-top: 1em;
+					}
+
 				}
 			}
 
