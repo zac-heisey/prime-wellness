@@ -29,10 +29,10 @@ defaults:
     seo-title: ''
     seo-description: ''
     featured-image: ''
-subtitle: 
+subtitle:
 url: http://www.zac-heisey.com/prime-wellness
-baseurl: 
-email: admin@riseprimewellness.com
+baseurl:
+email: rise@riseprimewellness.com
 description: Welcome to RISE Prime Wellness in San Diego. Visit us online to learn
   more about physical therapy, yoga, and cryotherapy treatment options.
 logo_image: uploads/images/rise-prime-logo2.svg
