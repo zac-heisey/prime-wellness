@@ -1,11 +1,12 @@
 ---
 title: Cryotherapy
 permalink: "/cryotherapy"
-layout: page
 description: We're the premier provider of cryotherapy in San Diego.
 seo-title: Cryotherapy in San Diego
-seo-description: This content will be your META description, which helps with SEO.
+seo-description: San Diego cryotherapy treatment available at RISE Prime Wellness.
+  Learn about the benefits of cryotherapy and book your cryotherapy session online.
 featured-image: uploads/images/cryotherapy.jpg
+layout: page
 ---
 
 Cryotherapy is a treatment modality that has been around for hundreds of years, but it hasn’t been until recently that medicine has tapped into its vast benefits.
