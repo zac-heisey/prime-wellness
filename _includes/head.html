@@ -8,10 +8,18 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta name="description" content="{% if page.seo-description != '' %}{{ page.seo-description | strip_html | strip_newlines | truncate: 160 }}{% elsif page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.site_settings_info.description }}{% endif %}">
-	<link rel="stylesheet" href="{{ "/assets/css/main.css " | prepend: site.url }}">
 
+	<link rel="stylesheet" href="{{ "/assets/css/main.css " | prepend: site.url }}">
 	<link rel="icon" type="image/png" href="{{ "/images/favicon.png " | prepend: site.url }}">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 	<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml " | prepend: site.url }}">
+
+	<!-- Google Tag Manager
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-TJ93H4V');</script>
+	<!-- End Google Tag Manager -->
 
 </head>
