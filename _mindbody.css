@@ -1,0 +1,27 @@
+/* Calendar */
+.ui-datepicker {
+  width: 50%;
+}
+
+/* Form h1 Heading */
+div.healcode .header h1,
+#hc-find-appt {
+  color: #fff;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-size: 17pt;
+  font-weight: 600;
+  letter-spacing: 0.025em;
+  line-height: 1.65;
+}
+
+/* My Account link */
+.action_text.my_account_text {
+  color: #fff;
+}
+
+/* Search button styles */
+#hc-find-appt {
+  padding: 1px 20px;
+  border-bottom: none;
+  border-radius: 0px;
+}
