@@ -13,8 +13,7 @@ navmenu:
 - title: Other Services
   url: "/other-services"
 - title: Schedule Session
-  url: "/#mindbody"
+  url: "/schedule"
 - title: Blog
   url: "/blog"
 ---
-
