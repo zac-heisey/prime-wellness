@@ -4,7 +4,7 @@ permalink: "/schedule"
 layout: page
 description: Schedule a Session with RISE Prime Wellness Today!
 seo-title: Schedule a Session
-seo-description: This content will be your META description, which helps with SEO.
+seo-description: Book you next yoga class, physical therapy visit, or cryotherapy session online. Schedule a Session with RISE Prime Wellness Today!
 featured-image: uploads/images/beach.jpg
 ---
 
