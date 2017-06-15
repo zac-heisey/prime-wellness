@@ -5,7 +5,7 @@ layout: page
 description: Schedule a Session with RISE Prime Wellness Today!
 seo-title: Schedule a Session
 seo-description: This content will be your META description, which helps with SEO.
-featured-image: uploads/images/team.jpg
+featured-image: uploads/images/beach.jpg
 ---
 
 <!-- Appointments widget -->
