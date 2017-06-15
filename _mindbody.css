@@ -1,6 +1,10 @@
 /* Calendar */
 .ui-datepicker {
-  width: 50%;
+  width: 100%;
+}
+
+table.ui-datepicker-calendar {
+  height: 400px;
 }
 
 /* Form h1 Heading */
@@ -24,4 +28,14 @@ div.healcode .header h1,
   padding: 1px 20px;
   border-bottom: none;
   border-radius: 0px;
+}
+
+/* Appointment Results styles */
+span.appointment.button a {
+  border-bottom: none;
+}
+
+div.healcode.appointments .trainer-label {
+  font-size: 20px;
+  margin-bottom: 5px;
 }
