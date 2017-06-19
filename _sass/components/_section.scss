@@ -20,6 +20,13 @@
 			flex-wrap: nowrap;
 		}
 
+		&#flex-section-mindbody {
+			display: flex;
+			flex-direction: row;
+			justify-content: space-around;
+			flex-wrap: wrap;
+		}
+
 		&.blog {
 			margin-top: 6em;
 		}
