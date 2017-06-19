@@ -54,3 +54,4 @@ Cryotherapy has several applications in the areas of athletic training, recovery
     <li>Boosts Lymph Draining and Blood Circulation</li>
     <li>Activates Natural Biological Regeneration</li>
   </ul>
+</section>
