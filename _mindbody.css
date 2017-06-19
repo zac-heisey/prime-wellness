@@ -7,6 +7,12 @@ table.ui-datepicker-calendar {
   height: 400px;
 }
 
+/* Form Field styles */
+select#session_type,
+select#options_staff_ids_ {
+  color: #2697d0;
+}
+
 /* Form h1 Heading */
 div.healcode .header h1,
 #hc-find-appt {
