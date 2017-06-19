@@ -4,7 +4,7 @@ permalink: "/about"
 layout: page
 description: Learn more about RISE Prime Wellness and our holistic approach to physical
   well-being.
-seo-title: 
+seo-title:
 seo-description: This content will be your META description, which helps with SEO.
 featured-image: uploads/images/team.jpg
 ---
@@ -42,7 +42,5 @@ At RISE Prime Wellness, we believe in an individualized, holistic approach to he
 **Navid Hannanvash, PT, DPT, ATC, CSCS, CAFS, FAFS**
 
 Dr. Navid Hannanvash is a world-renowned physical therapist, athletic trainer, strength and conditioning specialist, fellow of applied functional science, and entrepreneur. His unique expertise in the medical and business worlds have led him to establish RISE Prime Wellness as a holistic [health & wellness clinic](/).
-
-`(Ask Doug about certifications)`
 
 Creating RISE Prime Wellness has been an opportunity of a lifetime for Dr. Hannanvash to bring together a collaborative experience of health and wellness that has never been done before. Understanding the unique knowledge and background of each health practitioner spawned the concept behind a comprehensive medical model. To learn more about Dr. Hannanvash, please email him directly at [navid@riseprimewellness.com](mailto:navid@riseprimewellness.com) or view his bio at `(YouTube Link)`.
