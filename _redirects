@@ -1,0 +1,3 @@
+# Netlify Dev Domain Redirects
+https://prime-wellness.netlify.com/*   https://www.riseprimewellness.com/:splat    301!
+http://prime-wellness.netlify.com/*    https://www.riseprimewellness.com/:splat    301!
