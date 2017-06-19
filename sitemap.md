@@ -14,6 +14,7 @@ layout: page
 - [Cryotherapy]({{ site.url }}/cryotherapy)
 - [Physical Therapy]({{ site.url }}/physical-therapy)
 - [Other Services]({{ site.url }}/other-services)
+- [Our Privacy Policy]({{ site.url }}/privacy-policy)
 - [Contact RISE Prime Wellness]({{ site.url }}/#contact)
 
 ### Blog
