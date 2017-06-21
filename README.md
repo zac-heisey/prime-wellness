@@ -4,7 +4,7 @@
 
 **Developed By:** [Sage Web Co.](https://www.sageweb.co)
 
-#* Credits
+## Credits
 
 This website was built using the **Forty** theme created by [AJ](https://twitter.com/ajlkn) at [HTML5 UP](https://html5up.net/), as well as the [Jekyll version of the Forty theme](https://github.com/andrewbanchich/forty-jekyll-theme) developed by [Andrew Banchich](https://twitter.com/andrewbanchich).
 
