@@ -1,9 +1,10 @@
 # RISE Prime Wellness
 
 **URL:** [www.riseprimewellness.com](https://www.riseprimewellness.com)
+
 **Developed By:** [Sage Web Co.](https://www.sageweb.co)
 
-# Credits
+#* Credits
 
 This website was built using the **Forty** theme created by [AJ](https://twitter.com/ajlkn) at [HTML5 UP](https://html5up.net/), as well as the [Jekyll version of the Forty theme](https://github.com/andrewbanchich/forty-jekyll-theme) developed by [Andrew Banchich](https://twitter.com/andrewbanchich).
 
@@ -46,5 +47,6 @@ Credits:
 		Respond.js (j.mp/respondjs)
 		Skel (skel.io)
 ```
+## License
 
 This project and all of its assets are 100% Open Source and are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Please refer to the [LICENSE.md](https://github.com/zac-heisey/prime-wellness/blob/netlify/LICENSE.md) of the project for attribution instructions and other details. Thanks!
