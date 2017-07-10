@@ -21,6 +21,10 @@
 		margin: 0 0 _size(element-margin) 0;
 		padding-left: 1em;
 
+		&.about-us-list {
+			list-style: none;
+		}
+
 		li {
 			padding-left: 0.5em;
 		}

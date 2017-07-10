@@ -14,22 +14,40 @@ At RISE Prime Wellness, we believe in an individualized, holistic approach to he
   <img src="{{ site.url }}/uploads/images/prime-wellness-diagram.png" id="diagram-img">
 </div>
 
+## Physical Therapy, Yoga, and Cryotherapy: Better Together
+
+The standalone benefits of our core health and wellness offerings are widely understood and accepted. We know that yoga is great for improving flexbility and mindfulness, that physical therapy can help treat and prevent injuries, and that cryotherapy can increase blood flow and decrease inflammation.
+
+Now imagine the health benefits that can be achieved when expert practitioners develop individualized treatment plans that combine these disciplines to deliver a truly holistic wellness experience. That is what RISE Prime Wellness aims to accomplish.
+
 <section id="flex-section">
   <ul class="about-us-list">
-    <h2>Physical Therapy</h2>
-    <li>Decrease biomechanical deficiencies and inefficiencies in order to decreased pain and lower the risk of injury.</li>
-    <li>Increasing functional, activity-specific flexibility, mobility, strength, speed, power, and endurance.</li>
+    <h3>Standalone Benefits: Physical Therapy</h3>
+    <li>Decreased Pain</li>
+    <li>Rehabilitation & Injury Recovery</li>
+    <li>Improved Strength, Flexibility, & Stability</li>
+    <li>Biomechanical Analysis to Reduce Future Injuries</li>
   </ul>
   <ul class="about-us-list">
-    <h2>Cryotherapy</h2>
-    <li>Global improvement in blood flow for decreased pain, increased tissue mobility, and overall improved range of motion.</li>
-    <li>Improved energy and metabolic efficiency.</li>
+    <h3>Standalone Benefits: Yoga</h3>
+    <li>Improved Physical, Mental, & Spiritual Health</li>
+    <li>Increased Body Stability</li>
+    <li>Decreased Stress & Anxiety</li>
+    <li>Improved Flexility</li>
   </ul>
   <ul class="about-us-list">
-    <h2>Yoga</h2>
-    <li>Total body improvements in mind, body, and spirit.</li>
-    <li>Breathing and postural awareness for overall health, stress reductions, and decreased pain.</li>
-    <li>Global flexibility, strength, and stability.</li>
+    <h3>Standalone Benefits: Cryotherapy</h3>
+    <li>Decreased Muscle Soreness & Inflammation</li>
+    <li>Improved Oxygen-Rich Blood Flow</li>
+    <li>Improved Athletic Performance</li>
+    <li>Improved Joint, Muscle, & Tissue Health</li>
+  </ul>
+  <ul class="about-us-list" id="combined-benefits">
+    <h3>COMBINED BENEFITS</h3>
+    <li>Injury Prevention & Pain Reduction Enhance Mindfulness & Reduce Stress</li>
+    <li>Breathing & Flexility Improve Physical Therapy Outcomes</li>
+    <li>Reduced Inflammation Improves Results of Physical Therapy & Yoga</li>
+    <li>Physical Therapy, Cryotherapy, and Yoga Combine to Achieve Optimal Mental, Spiritual, and Physical Health</li>
   </ul>
 </section>
 
