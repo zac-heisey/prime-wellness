@@ -1,7 +1,8 @@
 ---
 title: How Much Cryotherapy Should I Be Doing?
 date: 2017-07-19 00:00:01 Z
-description: One of the biggest questions asked regarding Cryotherapy is how often should I be doing Cryotherapy? This post aims to answer that and much more!
+description: One of the biggest questions asked regarding Cryotherapy is how often
+  should I be doing Cryotherapy? This post aims to answer that and much more!
 seo-title: How Much Cryotherapy Should I Be Doing?
 featured-image: "/uploads/how-much-cryotherapy.jpg"
 ---
