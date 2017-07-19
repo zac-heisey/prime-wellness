@@ -35,7 +35,7 @@ baseurl:
 email: rise@riseprimewellness.com
 description: Welcome to RISE Prime Wellness in San Diego. Visit us online to learn
   more about physical therapy, yoga, and cryotherapy treatment options.
-logo_image: uploads/images/rise-prime-logo2.svg
+logo_image: uploads/rise-prime-logo2.svg
 tiles-source: pages
 tiles-count: 6
 markdown: kramdown

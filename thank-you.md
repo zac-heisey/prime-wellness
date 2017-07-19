@@ -6,7 +6,7 @@ description: Thanks for reaching out to RISE Prime Wellness! We'll be in touch s
   or wellness practitioner.
 seo-description: Thanks for reaching out to RISE Prime Wellness! We'll be in touch
   soon to schedule your free health and wellness evaluation.
-featured-image: uploads/images/pic11.jpg
+featured-image: uploads/pic11.jpg
 layout: page
 ---
 

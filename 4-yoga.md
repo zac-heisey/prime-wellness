@@ -5,7 +5,7 @@ description: Yoga Practice at RISE Prime Wellness.
 seo-title: Yoga in San Diego
 seo-description: RISE Prime Wellness aims to be the revolution in holistic yoga practice.
   We offer small group yoga, as well specialized yoga classes and courses.
-featured-image: uploads/images/yoga01.jpg
+featured-image: uploads/yoga01.jpg
 layout: page
 ---
 

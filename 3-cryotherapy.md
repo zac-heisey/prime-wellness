@@ -5,7 +5,7 @@ description: We're the premier provider of cryotherapy in San Diego.
 seo-title: Cryotherapy in San Diego
 seo-description: San Diego cryotherapy treatment available at RISE Prime Wellness.
   Learn about the benefits of cryotherapy and book your cryotherapy session online.
-featured-image: uploads/images/cryotherapy.jpg
+featured-image: uploads/cryotherapy.jpg
 layout: page
 ---
 

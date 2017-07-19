@@ -8,7 +8,7 @@ description: Welcome to RISE Prime Wellness. We are the premier holistic<br> hea
   yoga, and cryotherapy treatments<br> with a number of other wellness services.
 seo-description: RISE Prime Wellness provides physical therapy, yoga, and cryotherapy
   treatment in San Diego. We're creating a new approach to holistic health and wellness.
-featured-image: uploads/images/banner.jpg
+featured-image: uploads/banner.jpg
 ---
 
 <!-- Mindbody Section
