@@ -37,7 +37,7 @@ span.healcode-title-text,
   border-radius: 0px;
 }
 
-/* Appointment Results styles */
+/*** APPOINTMENT WIDGET STYLES ***/
 span.appointment.button a {
   border-bottom: none;
 }
@@ -45,4 +45,10 @@ span.appointment.button a {
 div.healcode.appointments .trainer-label {
   font-size: 20px;
   margin-bottom: 5px;
+}
+
+/*** CLASSES WIDGET STYLES ***/
+
+div.healcode table.schedule tr td {
+  background-color: #f5f5f5;
 }
