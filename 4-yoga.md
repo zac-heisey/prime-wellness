@@ -19,3 +19,9 @@ RISE stands for Revolution In Self Evolution, and at [RISE Prime Wellness](/) we
 - Yoga For Runners
 - Sports Specific Yoga
 - Adolescent and Pediatric Yoga
+
+<section id="flex-section-mindbody">
+  <!-- Classes Mindbody widget -->
+  <script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
+  <healcode-widget data-type="class_lists" data-widget-partner="object" data-widget-id="2520598275d" data-widget-version="0.1"></healcode-widget>
+</section>

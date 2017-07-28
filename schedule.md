@@ -10,11 +10,7 @@ featured-image: uploads/beach.jpg
 ---
 
 <section id="flex-section-mindbody">
-  <!-- Appointments widget -->
+  <!-- Appointments Mindbody widget -->
   <script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
   <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="2521356275d" data-widget-version="0.1"></healcode-widget>
-
-  <!-- Classes widget -->
-  <script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
-  <healcode-widget data-type="class_lists" data-widget-partner="object" data-widget-id="2520598275d" data-widget-version="0.1"></healcode-widget>
 </section>
