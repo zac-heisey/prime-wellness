@@ -4,7 +4,7 @@ date: 2017-08-17 00:00:01 Z
 description: When it comes to pain, physical therapy should be your first line of
   defense. Learn how physical therapy can be the step 1 in injury treatment & prevention.
 seo-title: Why Physical Therapy Should Be Your First Line of Defense
-featured-image: /uploads/karate-kick-on-beach.jpg
+featured-image: "/uploads/karate-kick-on-beach.jpg"
 ---
 
 _Written by Dr. Rachel Nesseth and Originally Published by [RISE Physical Therapy](https://www.risephysicaltherapy.com/blog/physical-therapy-first-line-defense)_
