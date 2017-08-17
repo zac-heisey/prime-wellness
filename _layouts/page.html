@@ -13,7 +13,7 @@
   	<div class="inner">
       {% if page.featured-image and page.featured-image != "" %}
   		<span class="image">
-  			<img src="{{ site.url }}/{{ page.featured-image }}" alt="" />
+  			<img src="{{ site.url }}/{{ page.featured-image }}" title="{{ page.seo-title }} | {{ site.title }}" alt="{{ page.seo-title }} featured image" />
   		</span>
       {% endif %}
   		<header class="major">
