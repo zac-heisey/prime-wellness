@@ -9,6 +9,8 @@ featured-image: uploads/cryotherapy.jpg
 layout: page
 ---
 
+## Drop In, [Call](tel:1-858-314-9610), or [Contact Us](#contact) to Book Your Cryotherapy Session Today!
+
 Cryotherapy is a treatment modality that has been around for hundreds of years, but it hasn’t been until recently that medicine has tapped into its vast benefits.
 
 Whole Body Cryotherapy is a process by which a person enters a chamber with the goal of dropping the skin temperature by ~30 degrees Fahrenheit. As a result, the underlying tissues experience a massive influx of blood flow leading to extreme benefits physically, psychologically, mentally, and emotionally.

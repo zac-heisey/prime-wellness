@@ -9,6 +9,8 @@ featured-image: uploads/stretch.jpg
 layout: page
 ---
 
+## [Call](tel:1-858-314-9610) or [Contact Us](#contact) to Book Your Physical Therapy Session Today!
+
 The physical therapy pillar of RISE Prime Wellness is unlike any other approach. Our goal is to bring patients into the comprehensive medical management model and create a foundation for success. All of our sessions are one-on-one without the use of any aides or assistants. By completing an initial evaluation with one of our physical therapists, you're able to identify and eliminate factors that hinder your daily life or impede your progress towards your health & wellness goals.
 
 Because [RISE Prime Wellness](/) is an Out-Of-Network physical therapy provider, we're able to offer a personalized treatment experience that is unique to you. Unlike most traditional courses of physical therapy, our multidiscplined providers are trained and skilled in the art of managing your care across a variety of health & wellness services such as [yoga](/yoga), [cryotherapy](/cryotherapy), massage therapy, naturopathic medicine, and [more](/other-services).
