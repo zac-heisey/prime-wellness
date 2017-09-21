@@ -9,6 +9,8 @@ seo-description: Confused on how to spiral your thighs forward? Here’s a quick
 featured-image: "/uploads/yoga-lingo.jpg"
 ---
 
+_Written by Abbie Leming_
+
 One of the biggest takeaways from a regular yoga practice is finding the ability to listen. More often than not, people begin their journey with yoga thinking that they will be the odd man out or that they’ll look silly to those around them. The truth is, anyone who is practicing yoga for the right reasons isn’t there for the benefit or sake of anyone but themselves.
 
 The time that someone carves out of their day to practice yoga is, in the most gentle way, a selfish time. It is a time for self-love, to refuel and relax, and to drop all other agendas so that all parts of your life are approached from a place of balance and a healthier mindset. Utilizing 60-90 minutes a day to devote solely to yourself is absolutely necessary in tending to relationships and personal health, and to avoid burning out. With that being said, when people turn to yoga to practice self-love, they aren’t paying attention to anyone around them. That’s because they’ve caught on to the importance of listening.
