@@ -3,13 +3,17 @@
 	<div class="inner">
 		<section>
 			<form action="https://formspree.io/{{ site.data.footer_contact_info.email }}" method="POST">
-				<div class="field half first">
+				<div class="field first">
 					<label for="name">Name</label>
 					<input type="text" name="name" id="name" required>
 				</div>
-				<div class="field half">
+				<div class="field half first">
 					<label for="email">Email</label>
 					<input type="email" name="_replyto" id="email" required>
+				</div>
+				<div class="field half">
+					<label for="phone">Phone</label>
+					<input type="tel" name="phone" id="phone" required>
 				</div>
 				<div class="field">
 					<label for="message">Message</label>
