@@ -3,6 +3,7 @@ title: Glutathione and Whole Body Cryotherapy
 date: 2017-10-17 20:31:00 Z
 description: Glutathione has been found to boost energy and fight cellular destruction.
   One way to increase Glutathione is with whole body cryotherapy treatments.
+seo-title: Glutathione and Whole Body Cryotherapy
 featured-image: "/uploads/glutathione-cryotherapy-athletes.jpg"
 ---
 
