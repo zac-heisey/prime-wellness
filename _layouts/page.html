@@ -22,6 +22,11 @@
   		<div class="content">
   			<p>{{ page.description }}</p>
   		</div>
+      {% if page.cta-btn and page.cta-url %}
+      <ul class="actions">
+        <li><a href="{{ page.cta-url }}" class="button scrolly special">{{ page.cta-btn }}</a></li>
+      </ul>
+      {% endif %}
   	</div>
   </section>
 
