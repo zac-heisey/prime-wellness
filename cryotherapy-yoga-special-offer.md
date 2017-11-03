@@ -1,6 +1,7 @@
 ---
 title: Join San Diego’s Chillest Yoga Practice
-description: Redeem your $20 Cryotherapy Voucher & 1 Free Yoga Class Credit.<br> Limited time offer - Join RISE Prime Wellness today!
+description: Redeem your $20 Cryotherapy Voucher & 1 Free Yoga Class Credit.<br> Limited
+  time offer - Join RISE Prime Wellness today!
 seo-title: Cryotherapy + Yoga Special Offer
 seo-description: TBD
 featured-image: uploads/ice-yoga.png
