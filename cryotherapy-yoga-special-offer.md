@@ -42,7 +42,7 @@ This is a limited time offer and there are **only 15 vouchers available**, so ge
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_380eabc054c67bac16145a294_444b21f799" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Get My Voucher" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" value="Get My $20 Voucher" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
