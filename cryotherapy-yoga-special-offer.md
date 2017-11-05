@@ -1,20 +1,22 @@
 ---
 title: Join San Diego’s Chillest Yoga Practice
-description: Redeem your $20 Cryotherapy Voucher & 1 Free Yoga Class Credit.<br> Limited
-  time offer - Join RISE Prime Wellness today!
+description: Redeem your ==$20 Cryotherapy Voucher & 1 Free Yoga Class Credit==.<br>
+  Limited time offer - Join RISE Prime Wellness today!
 seo-title: Cryotherapy + Yoga Special Offer
 seo-description: TBD
 featured-image: uploads/ice-yoga.png
-layout: page
-cta-btn: Sign Up
+cta-btn: Get Started Today
 cta-url: "#mc_embed_signup"
+layout: page
 ---
 
 ## Healthy Body. Healthy Mind. Happy Life.  
 
 RISE Prime Wellness is San Diego’s first physical therapist operated yoga studio to combine the benefits of **Yoga**, **Cryotherapy**, and **Physical Therapy** to achieve unparalleled results.
 
-Sign up today to redeem your **$20 Cryotherapy Voucher & 1 Free Yoga Class Credit**. This is a limited time offer and there are only 15 vouchers available, so get yours today!
+Sign up today to redeem your ==$20 Cryotherapy Voucher & 1 Free Yoga Class Credit==.
+
+This is a limited time offer and there are **only 15 vouchers available**, so get yours today!
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
