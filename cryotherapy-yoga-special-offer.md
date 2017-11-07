@@ -14,7 +14,7 @@ layout: page
 
 RISE Prime Wellness is San Diego’s first physical therapist operated yoga studio to combine the benefits of **Yoga**, **Cryotherapy**, and **Physical Therapy** to achieve unparalleled results.
 
-<p>Sign up today to redeem your <span style="color:darkorange;font-weight:900;">$20 Cryotherapy Voucher & 1 Free Yoga Class Credit</span>.</p>
+Sign up today to redeem your **$20 Cryotherapy Voucher & 1 Free Yoga Class Credit**.
 
 This is a limited time offer and there are **only 15 vouchers available**, so get yours today!
 
