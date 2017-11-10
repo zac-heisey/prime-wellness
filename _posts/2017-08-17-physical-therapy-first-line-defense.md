@@ -1,6 +1,6 @@
 ---
 title: Why Physical Therapy Should Be Your First Line of Defense
-date: 2017-08-17 00:00:01 Z
+date: 2017-08-17 00:00:00 Z
 description: When it comes to pain, physical therapy should be your first line of
   defense. Learn how physical therapy can be the step 1 in injury treatment & prevention.
 seo-title: Why Physical Therapy Should Be Your First Line of Defense
@@ -13,7 +13,7 @@ _Written by Dr. Rachel Nesseth and Originally Published by [RISE Physical Therap
 
 The United States is the largest consumer of pain medication in the world. Last year, the [CDC announced](http://www.moveforwardpt.com/DidYouKnow/Detail.aspx?cid=cd52bad5-f4a3-4f1f-a387-9cd4a3bc1842) that physical therapy is now recommended to treat low back pain rather than opioids. This is a big change in the current healthcare structure. We have become accustomed to taking a pill for each problem that we have. The problem with this mentality is while there may be a pill for almost every symptom (with its share of side effects), there is no pill that fixes the root of the problem. Treating symptoms, instead of the root of the problem is the end of health care. If everyone focuses on the superficial wound, without finding the source of the bleed, we won’t fix anything. The same goes with any musculoskeletal problem. If there is a mechanical problem, a physical therapist can find the source and help you on your way to recovery with stretching, soft tissue work, manipulations, and exercises.
 
-![physical therapy medicine ball stretch](https://www.risephysicaltherapy.com/img/blog/pt-first-line.jpg)
+![image of man doing back stretch with medicine ball](https://www.risephysicaltherapy.com/img/blog/pt-first-line.jpg "Physical Therapy Medicine Ball Stretch")
 
 [Physical therapists](https://www.risephysicaltherapy.com/#team) are trained to understand the mechanics of the body, have extensive knowledge of anatomy and physiology and exercise to help patients heal themselves to return to their normal activities. They observe how people move, discern what movements and tissues are involved in the problem and teach patients how to heal themselves. While some patients can recover with just physical therapy, other healthcare professionals are often involved in your recovery through any injury. It may be necessary to have additional soft tissue work from a massage therapist, acupuncture, [cryotherapy](/cryotherapy), injections from a physician or chiropractic work. All of these routes or combination thereof can help patients recover to their fullest potential.
 
@@ -21,7 +21,7 @@ The United States is the largest consumer of pain medication in the world. Last 
 
 I often come across patients believing that surgery is the only way to fix their injury. This is true with some conditions, and I always encourage you to look at all your options. Sometimes in physical therapy sessions leading up to surgery, patients find relief of their pain and are able to avoid going under the knife. Surgery is not always the answer, just as physical therapy is not always the answer. There are plenty of patients who, despite their efforts in physical therapy do not find relief of symptoms and the source of problems. The main idea is that people should try less invasive and expensive procedures to address their injury. Surgery has its risks and often requires physical therapy after to return to full function.
 
-![physical therapy medicine ball exercise](https://media.defense.gov/2015/Jun/23/2001075482/670/394/0/150611-F-HH943-125.JPG)
+![image of physical therapy medicine ball exercise](https://media.defense.gov/2015/Jun/23/2001075482/670/394/0/150611-F-HH943-125.JPG "Medicine Ball Exercises for Your Core")
 
 **So how does it work?**
 
