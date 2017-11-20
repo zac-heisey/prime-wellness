@@ -9,7 +9,7 @@ Among die-hard basketball fanatics, the old adage goes like this: **Ball. Is. Li
 
 The majority of professional athletes in this world have the time, energy, and resources to have access to the highest levels of care and body maintenance. But what happens when all you care about is not having aches and pains while playing with your children or grandchildren, being able to reach for a glass from a shelf, train for a local 5K, or even play a game of pick-up basketball or tennis once a week with your pals? Does that mean you shouldn’t have access to the same health and wellness resources?
 
-!\[lebron james doing cyrotherapy\](https://usathoopshype.files.wordpress.com/2017/10/lebroncryo2.jpg?w=1000&h=600&crop=1 "LeBron James Incorporates Cryotherapy in His Recovery Routine")
+![lebron james doing cyrotherapy](https://usathoopshype.files.wordpress.com/2017/10/lebroncryo2.jpg?w=1000&h=600&crop=1 "LeBron James Incorporates Cryotherapy in His Recovery Routine")
 
 At [RISE Prime Wellness](/), we realize that not everybody has the time and energy to track down the latest technology and resources to pain management and improved performance. Lucky for you, we've done the hard work to make professional-level resources more accessible.
 It may seem like old hat to the most informed professional athlete, but to weekend warriors, [whole body cryotherapy](/cryotherapy) is a relatively new phenomenon.
