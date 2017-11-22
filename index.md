@@ -10,3 +10,4 @@ seo-description: RISE Prime Wellness provides physical therapy, yoga, and cryoth
   treatment in San Diego. We're creating a new approach to holistic health and wellness.
 featured-image: uploads/banner.jpg
 ---
+
