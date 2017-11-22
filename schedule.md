@@ -9,8 +9,13 @@ seo-description: Book you next yoga class, physical therapy visit, or cryotherap
 featured-image: uploads/beach.jpg
 ---
 
-<section id="flex-section-mindbody">
-  <!-- Appointments Mindbody widget -->
+<!-- Vagaro booking widget -->
+<div class="vagaro" style="width:100%; padding:0; border:0; margin:0 auto; text-align:center;"><style>.vagaro a {font-size:14px; color:#AAA; text-decoration:none;}</style>
+<script type="text/javascript" src="https://www.vagaro.com/resources/WidgetEmbeddedLoader/OZquC38uDIPqFJ1y68?v=udcvgFPZdRuzCJXJ9dRwXgV7fOlEVvmuDzBQMdbryZuW#"></script>
+</div>
+
+<!-- <section id="flex-section-mindbody">
+  <!-- Appointments Mindbody widget
   <div>
     <script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
     <healcode-widget data-type="appointments" data-widget-partner="object" data-widget-id="2521356275d" data-widget-version="0.1"></healcode-widget>
@@ -20,5 +25,5 @@ featured-image: uploads/beach.jpg
     <p>If you'd like to view and book one of our yoga classes, please visit our <a href="{{ site.url }}/yoga">Yoga page.</a></p>
     <h3>Physical Therapy</h3>
     <p>Visit our <a href="{{ site.url }}/physical-therapy">Physical Therapy page</a> to learn more about our treatment options,<br>or <a href="{{ site.url }}/schedule#contact">contact us</a> to schedule an initial consultation today!</p>
-  </div>  
-</section>
+  </div>
+</section> -->
