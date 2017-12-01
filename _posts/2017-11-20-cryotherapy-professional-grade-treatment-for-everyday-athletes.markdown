@@ -1,6 +1,9 @@
 ---
 title: 'Cryotherapy: Professional-Grade Treatment for Everyday Athletes'
 date: 2017-11-20 15:57:00 Z
+description: Cryotherapy isn't just for professional athletes. Pick-up ballers, avid
+  runners, and weekend rec league warriors are all benefiting from cryotherapy in
+  San Diego.
 ---
 
 *Written by Dr. Navid Hannanvash PT, DPT, ATC, CSCS, CAFS, FAFS*
