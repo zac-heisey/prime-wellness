@@ -1,13 +1,13 @@
 ---
 title: How Much Cryotherapy Should I Be Doing?
-date: 2017-07-19 00:00:01 Z
+date: 2017-07-19 00:00:00 Z
 description: One of the biggest questions asked regarding Cryotherapy is how often
   should I be doing Cryotherapy? This post aims to answer that and much more!
 seo-title: How Much Cryotherapy Should I Be Doing?
 featured-image: "/uploads/how-much-cryotherapy.jpg"
 ---
 
-_Written by Torrance Laugle, [YOLOrevival.com](https://www.yolorevival.com)_
+_Written by Torrance Laugle_
 
 One of the biggest questions asked regarding [Cryotherapy](/cryotherapy) is how often should I be doing Cryotherapy? Much like anything else, the answer is largely dependent on a client's desired results. However, we do know dependable therapy often comes with a steep price. My goal in this article is to explain our suggested protocol and give the you the practical requirements for the results you're looking for.
 
