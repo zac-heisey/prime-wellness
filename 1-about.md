@@ -13,6 +13,8 @@ layout: page
 
 At RISE Prime Wellness, we believe in an individualized, holistic approach to health and wellness. In order to truly provide an environment of healing and growth for the mind, body, and spirit, we've developed a unique framework built upon three of the most effective wellness disciplines: [**physical therapy**](/physical-therapy), [**cryotherapy**](/cryotherapy), and [**yoga**](/yoga).
 
+<div id="bookingjs"></div> <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js" defer></script> <script src="https://cdn.timekit.io/booking-js/v1/booking.min.js" defer></script> <script>window.timekitBookingConfig = { widgetId: '1e7ec5ee-32fa-4f56-932a-0383153f3e41' }</script>
+
 <div style="text-align:center;">
   <img src="{{ site.url }}/uploads/prime-wellness-diagram.png" alt="diagram of RISE Prime Wellness complimentary services" title="RISE Prime Wellness Combines Cyrotherapy, Yoga, and Physical Therapy" id="diagram-img">
 </div>
