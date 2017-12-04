@@ -72,15 +72,24 @@
 
 	.video-wrapper {
 		position: relative;
-		padding-bottom: 56.25%; /* 16:9 */
+		padding-bottom: 56.25%; // 16:9 aspect ratio
 		padding-top: 25px;
 		height: 0;
+	}
 
-		iframe {
-			position: absolute;
-			top: 0;
-			left: 0;
-			width: 100%;
-			height: 100%;
-		}
+	.calendar-wrapper {
+		position: relative;
+		padding-bottom: 75%; // 4:3 aspect ratio
+		margin-bottom: 2rem;
+		height: 0;
+		overflow: hidden;
+	}
+
+	.video-wrapper iframe,
+	.calendar-wrapper iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
 	}
