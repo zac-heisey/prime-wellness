@@ -68,7 +68,7 @@
 		height: auto;
 	}
 
-/* Videos */
+/* Videos, Embeds, & iframes */
 
 	.video-wrapper {
 		position: relative;
@@ -83,6 +83,11 @@
 		margin-bottom: 2rem;
 		height: 0;
 		overflow: hidden;
+
+		@include breakpoint(small) {
+			display: none;
+		}
+
 	}
 
 	.video-wrapper iframe,

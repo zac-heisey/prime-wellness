@@ -9,24 +9,40 @@ featured-image: uploads/yoga01.jpg
 layout: page
 ---
 
-## View Our Yoga Schedule & Click a Class to Book
-<!--
-### RISE Prime Wellness Yoga Pricing
+## RISE Yoga Class Descriptions & Schedule
 
-**Single Class "Drop-In"**: $20.00 | **Yoga 5 Class Package**: $89.00 | **Yoga 10 Class Package**: $109.00
-
-### RISE Prime Wellness Yoga Schedule
-
-<section id="flex-section-mindbody">
-  <!-- Class Schedule Mindbody widget
-  <script src="https://widgets.healcode.com/javascripts/healcode.js" type="text/javascript"></script>
-  <healcode-widget data-type="schedules" data-widget-partner="object" data-widget-id="2535802275d" data-widget-version="0.1"></healcode-widget>
+<!-- Yoga class descriptions -->
+<section id="flex-section">
+  <div class="yoga-class-description">
+    <h3>RISE Vinyasa Yoga</h3>
+    <p>Rise Vinyasa offers energetic sequences with fluid transitions and opportunities for advancing your practice. While maintaining a foundation that is accessible to all-levels, you will learn unique variations to postures, proper alignment techniques, and grow stronger and leaner.</p>
+  </div>
+  <div class="yoga-class-description">
+    <h3>RISE Power Yoga</h3>
+    <p>RISE Power is an all-levels call that aims to challenge your practice by building internal heat, utilizing heating breath, and offering opportunities for advanced postures. With focus on core activation and building strength, you can expect a dynamic sequence that will challenge you to the next level.</p>
+  </div>
 </section>
--->
+<section id="flex-section">
+  <div class="yoga-class-description">
+    <h3>RISE Vinyasa Yoga</h3>
+    <p>Rise Vinyasa offers energetic sequences with fluid transitions and opportunities for advancing your practice. While maintaining a foundation that is accessible to all-levels, you will learn unique variations to postures, proper alignment techniques, and grow stronger and leaner.</p>
+  </div>
+  <div class="yoga-class-description">
+    <h3>RISE Power Yoga</h3>
+    <p>RISE Power is an all-levels call that aims to challenge your practice by building internal heat, utilizing heating breath, and offering opportunities for advanced postures. With focus on core activation and building strength, you can expect a dynamic sequence that will challenge you to the next level.</p>
+  </div>
+</section>
+
+
 <!-- Google Calendar embed -->
 <div class="calendar-wrapper">
   <iframe src="https://calendar.google.com/calendar/embed?src=sandi.net_ipj2htod2ndlo5ln91rr8qrnq0%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
+<ul class="actions" id="yoga-book-btn">
+  <li>
+    <a href="https://www.vagaro.com/riseprimewellness/services" class="button special" target="_blank">Book Yoga Class</a>
+  </li>
+</ul>  
 
 Yoga has been offered by thousands of practitioners in a variety of settings. Our goal at RISE Prime Wellness is to enhance the positive effects of yoga by providing complimentary health & wellness services and treatment options on top of a consistent yoga routine.
 

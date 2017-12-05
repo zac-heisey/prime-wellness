@@ -18,6 +18,11 @@
 			flex-direction: row;
 			justify-content: space-between;
 			flex-wrap: nowrap;
+
+			> .yoga-class-description {
+				margin-right: 1rem;
+			}
+
 		}
 
 		&.blog {
