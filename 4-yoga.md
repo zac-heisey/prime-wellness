@@ -33,7 +33,7 @@ _Schedule subject to change; Please check class schedules before booking_
     <p>Rise Flow is an all-levels class promoting continuous movement and a connection to breath. Embodying a breath-to-movement pattern in every class, we will heat up internally, fire up the limbs, and then stretch it out releasing tension and stiffness as the class winds down. Perfect for building strength and flexibility!</p>
   </div>
   <div class="yoga-class-description">
-    <h3>RISE Sculp Yoga</h3>
+    <h3>RISE Sculpt Yoga</h3>
     <p>Sculpt Yoga is an all-levels class that aims to challenge your practice by building internal heat, utilizing heating breath, and offering opportunities for advanced postures. With focus on core activation and building strength, you can expect a dynamic sequence that will challenge you to the next level.</p>
   </div>
 </section>
