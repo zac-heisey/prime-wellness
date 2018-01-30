@@ -7,7 +7,7 @@
 	{% else %}{{ site.title | escape }}{% endif %}</title>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<meta name="description" content="{% if page.seo-description != '' %}{{ page.seo-description | strip_html | strip_newlines | truncate: 160 }}{% elsif page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.site_settings_info.description }}{% endif %}">
+	<meta name="description" content="{% if page.seo-description != '' %}{{ page.seo-description | strip_html | strip_newlines | truncate: 160 }}{% elsif page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
 	<link rel="stylesheet" href="{{ "/assets/css/main.css " | prepend: site.url }}">
 	<link rel="icon" type="image/png" href="{{ "/favicon.ico " | prepend: site.url }}">
