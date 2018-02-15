@@ -22,8 +22,12 @@ We encourage you to watch the videos provided below giving some more information
 
 ### How Whole Body Cryotherapy Works:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hlxRjhkOvko?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class='video-wrapper'>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hlxRjhkOvko?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ### Significance of Electric Walk-In Cryotherapy:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/06CV6EnFv2c?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class='video-wrapper'>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/06CV6EnFv2c?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
