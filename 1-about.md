@@ -62,6 +62,6 @@ Dr. Navid Hannanvash is a world-renowned Physical Therapist, athletic trainer, s
 
 Creating RISE Prime Wellness has been an opportunity of a lifetime for Dr. Hannanvash to bring together a collaborative experience of health and wellness that has never been done before. Understanding the unique knowledge and background of each health practitioner spawned the concept behind a comprehensive medical model. To learn more about Dr. Hannanvash, please email him directly at [navid@riseprimewellness.com](mailto:navid@riseprimewellness.com).
 
-<div class='video-wrapper'>
+<!-- <div class='video-wrapper'>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/suGu7zXp8Vk" frameborder="0" allowfullscreen></iframe>
-</div>
+</div> -->
