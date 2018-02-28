@@ -22,6 +22,10 @@ _Schedule subject to change; Please check class schedules before booking_
     <h3>RISE Power Yoga</h3>
     <p>RISE Power is an all-levels call that aims to challenge your practice by building internal heat, utilizing heating breath, and offering opportunities for advanced postures. With focus on core activation and building strength, you can expect a dynamic sequence that will challenge you to the next level.</p>
   </div>
+  <div class="yoga-class-description">
+    <h3>RISE Hatha Yoga</h3>
+    <p>Hatha is a gentle and basic yoga class with no flow between poses, which helps bring peace to the mind and body. Expect a slower-paced, stretching-focused class with some basic pranayama breathing exercises. Hatha classes are a good place to work on your alignment, learn relaxation techniques, and become comfortable with doing yoga while building strength and flexibility.</p>
+  </div>
 </section>
 <section id="flex-section">
   <div class="yoga-class-description">

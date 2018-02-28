@@ -13,14 +13,15 @@
 	}
 
 	section {
-		&#flex-section {
+		#flex-section {
 			display: flex;
 			flex-direction: row;
 			justify-content: space-between;
 			flex-wrap: nowrap;
 
-			> .yoga-class-description {
+			.yoga-class-description {
 				margin-right: 1rem;
+				width: 33%;
 			}
 
 		}
@@ -30,8 +31,13 @@
 		}
 
 		@include breakpoint(medium) {
-			&#flex-section {
+			#flex-section {
 				flex-wrap: wrap;
+
+				.yoga-class-description {
+					width: 100%;
+				}
+
 			}
 		}
 	}
