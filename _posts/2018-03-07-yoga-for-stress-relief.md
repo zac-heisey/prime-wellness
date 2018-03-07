@@ -1,15 +1,16 @@
 ---
+title: Yoga for Stress Relief
+date: 2018-03-07 00:00:00 Z
+categories:
+- blog
 layout: post
 description: Most of us know that yoga is great for relieving stress. But how does
   it all work? Discover how yoga relieves stress and helps you achieve self-realization.
-categories:
-- blog
 seo-title: ''
 seo-description: ''
 featured-image: "/uploads/nicole-yoga-stress.jpg"
-title: Yoga for Stress Relief
-date: 2018-03-07 00:00:00 +0000
 ---
+
 _Written by [Nicole Turner](https://nicoleturneryoga.com/)_
 
 According to the American Psychological Association, "[chronic stress](http://www.miamiherald.com/living/article1961770.html) is officially linked to the six leading causes of death: heart disease, cancer, lung ailments, accidents, cirrhosis of the liver and suicide - and more than 75% of all physician office visits are for stress-related ailments and complaints. This unfortunate fact is what has continued to make self-soothing techniques, such as meditation, relaxation, exercise, or even socializing with friends, studied as possible treatments. With the popularity of yoga continuing to grow throughout the world, western medicine has finally taken notice and started to prescribe yoga for stress relief.
