@@ -6,9 +6,11 @@ description: Beautiful, radiant skin, starts from the inside of our bodies at th
   your skin.
 ---
 
-Did you know that stepping inside of a [whole body cryotherapy chamber](/cryotherapy) for a few short minutes can do wonders for total skin rejuvenation? 
+Did you know that stepping inside of a [whole body cryotherapy chamber](/cryotherapy) for a few short minutes can do wonders for total skin rejuvenation?
 
-Beautiful, radiant skin, starts from the inside of our bodies at the cellular level. Topical application of fancy night creams, serums and face masks may help improve the look of your skin, but they only reach the surface layer, and often contain harmful chemicals that get absorbed into the bloodstream. Whole body cryotherapy challenges the common ritual of chemical-filled skincare routines and helps improve all areas of skin performance by enhancing complexion and reducing toxins and inflammation. 
+Beautiful, radiant skin, starts from the inside of our bodies at the cellular level. Topical application of fancy night creams, serums and face masks may help improve the look of your skin, but they only reach the surface layer, and often contain harmful chemicals that get absorbed into the bloodstream. Whole body cryotherapy challenges the common ritual of chemical-filled skincare routines and helps improve all areas of skin performance by enhancing complexion and reducing toxins and inflammation.
+
+![image of woman putting ice on her face](/uploads/ice-facial.jpg "Cold Therapy Can Do Wonders for Your Skin")
 
 **Here’s How:**
 
@@ -16,6 +18,8 @@ Exposing the skin to sub-zero temperatures during a whole body cryotherapy treat
 
 When the skin is exposed to extreme cold, pores shrink to try to keep heat in. Smaller pores on the face and body reduces the amount of environmental toxins and bacteria that can permeate the bloodstream. So not only does cryotherapy clear up inflammatory bacteria-driven skin conditions like acne and rosacea, it acts as a protective shield for the body. 
 
-Amazingly, whole body cryotherapy also counteracts the aging process by triggering the production of collagen, keeping the skin firm and tight! The breakdown of collagen is the primary reason why the skin loses elasticity and develops wrinkles as we age. Cryotherapy regenerates the cells to slow down the process. 
+Amazingly, whole body cryotherapy also counteracts the aging process by triggering the production of collagen, keeping the skin firm and tight! The breakdown of collagen is the primary reason why the skin loses elasticity and develops wrinkles as we age. Cryotherapy regenerates the cells to slow down the process.
+
+![image of woman in bathing suit touching her leg](/uploads/woman-leg-skin.jpg "Cyrotherapy Has Been Proven to Improve Skin Elasticity")
 
 And it doesn't stop at your face! Cryotherapy improves skin elasticity everywhere on your body which will have you saying goodbye to cellulite! It converts passive, energy-storing white fat around the abdomen, hips, and thighs into metabolically active brown fat that BURNS energy! This is because brown fat is packed with mitochondria, the powerhouse of the cell that produces energy from the breakdown of carbohydrates and fatty acids. When the body shivers during a whole body cryotherapy treatment, the mitochondria are triggered to produce heat. The process of heating the body back up uses the energy from stored white fat as fuel, which burns calories and can diminish the appearance of cellulite over time.
