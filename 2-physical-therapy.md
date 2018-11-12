@@ -5,7 +5,7 @@ description: We offer exclusive, 1-on-1 Physical Therapy in San Diego.
 seo-title: Physical Therapy in San Diego
 seo-description: RISE Prime Wellness provides premier 1-on-1 physical therapy treatment
   to patients throughout San Diego County. Visit today to learn more!
-featured-image: uploads/stretch.jpg
+featured-image: uploads/prime-physical-therapy.jpg
 layout: page
 ---
 
@@ -22,10 +22,10 @@ As a result, you won’t be scheduled for multiple sessions per week for your ca
 **Dr. Rachel Nesseth, PT, DPT, CAFS, RYT**
 
 Dr. Rachel Nesseth’s unique background in yoga, dance, and pediatric physical therapy allows her to work with many of our RISE Prime Wellness patients. As a Doctor of Physical Therapy with a background in Applied Functional Science, Rachel incorporates that unique experience into not only her physical therapy practice but also her yoga classes. [Visit our yoga page](/yoga) to view Dr. Nesseth's yoga schedule.
- 
+
 With a background in dance, Dr. Nesseth is also able to provide a unique combination of education and experience to the rehabilitation, education, and injury prevention of the local dance community.
 
-Dr. Nesseth has also worked closely with multiple pediatric practitioners (ranging from pediatric MD’s, to pediatric dentists, CST’s, chiropractors, and other providers) in order to develop rehabilitation protocols for young patients with plagiocephaly, torticollis, and other musculoskeletal/neurodevelopmental delays. 
+Dr. Nesseth has also worked closely with multiple pediatric practitioners (ranging from pediatric MD’s, to pediatric dentists, CST’s, chiropractors, and other providers) in order to develop rehabilitation protocols for young patients with plagiocephaly, torticollis, and other musculoskeletal/neurodevelopmental delays.
 
 Dr. Nesseth is available to treat all patients for sixty-minute sessions and pediatric patients for thirty-minute sessions (with the initial evaluation being sixty minutes long). To schedule an appointment with Dr. Rachel Nesseth, please [contact us](#contact).
 

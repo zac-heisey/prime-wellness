@@ -7,7 +7,7 @@ seo-title: About Us
 seo-description: RISE Prime Wellness is the premier health & wellness clinic in San
   Diego. We offer a combination of physical therapy, cryotherapy, and yoga in San
   Diego.
-featured-image: uploads/team.jpg
+featured-image: uploads/prime-about.jpg
 layout: page
 ---
 

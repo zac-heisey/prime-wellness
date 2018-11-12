@@ -8,7 +8,7 @@ seo-title: Health & Wellness Blog
 seo-description: Guides, articles, and other resources related to physical therapy,
   yoga, cryotherapy, fitness, nutrition, and more. Check out the RISE Prime Wellness
   blog.
-featured-image: uploads/blog.jpg
+featured-image: uploads/prime-blog.jpg
 ---
 
 # Recent Posts

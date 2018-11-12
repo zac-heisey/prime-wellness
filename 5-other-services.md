@@ -6,7 +6,7 @@ description: RISE Prime Wellness also offers group fitness classes, personal tra
 seo-title: Other Services
 seo-description: RISE Prime Wellness also offers a variety of treatment options, all
   of which work together to provide a holistic approach to health & wellness.
-featured-image: uploads/swimmer.jpg
+featured-image: uploads/prime-other-services.jpg
 layout: page
 ---
 
