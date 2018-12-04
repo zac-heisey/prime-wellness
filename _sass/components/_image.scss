@@ -77,21 +77,7 @@
 		height: 0;
 	}
 
-	.calendar-wrapper {
-		position: relative;
-		padding-bottom: 75%; // 4:3 aspect ratio
-		margin-bottom: 2rem;
-		height: 0;
-		overflow: hidden;
-
-		@include breakpoint(small) {
-			display: none;
-		}
-		
-	}
-
-	.video-wrapper iframe,
-	.calendar-wrapper iframe {
+	.video-wrapper iframe {
 		position: absolute;
 		top: 0;
 		left: 0;

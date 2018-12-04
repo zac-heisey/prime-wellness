@@ -43,13 +43,9 @@ _Schedule subject to change; Please check class schedules before booking_
 </section>
 
 
-<!-- Google Calendar embed -->
-<div class="calendar-wrapper">
-  <iframe src="https://calendar.google.com/calendar/embed?src=sandi.net_ipj2htod2ndlo5ln91rr8qrnq0%40group.calendar.google.com&ctz=America/Los_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-</div>
+<!-- Vagaro Yoga Booking Button -->
 <ul class="actions">
-  <li id="yoga-cal-embed"><a href="https://calendar.google.com/calendar/embed?src=sandi.net_ipj2htod2ndlo5ln91rr8qrnq0%40group.calendar.google.com&ctz=America/Los_Angeles" class="button" target="_blank">View Our Yoga Schedule</a></li>
-  <li><a href="https://www.vagaro.com/riseprimewellness/services" class="button special" target="_blank">Book a Class</a></li>
+  <li><a href="https://www.vagaro.com/riseprimewellness/classes" class="button special book-btn" target="_blank">Book Your Yoga Class</a></li>
 </ul>
 
 Yoga has been offered by thousands of practitioners in a variety of settings. Our goal at RISE Prime Wellness is to enhance the positive effects of yoga by providing complimentary health & wellness services and treatment options on top of a consistent yoga routine.

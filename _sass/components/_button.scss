@@ -131,17 +131,6 @@
 		}
 	}
 
-	/* Yoga Calendar Embed Button */
-	#yoga-cal-embed {
-		display: none; // Don't show this button on desktops & larger screens
-
-		@include breakpoint(small) {
-			display: inherit; // Show button on mobile devices & small screens
-			margin-bottom: 1rem;
-		}
-
-	}
-
 	/* Homepage Buttons (technically <a> tags) */
 	@include breakpoint(xsmall) {
 		.book-btn {
