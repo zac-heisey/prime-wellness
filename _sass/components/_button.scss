@@ -141,3 +141,10 @@
 		}
 
 	}
+
+	/* Homepage Buttons (technically <a> tags) */
+	@include breakpoint(xsmall) {
+		.book-btn {
+			margin-top: 1rem;
+		}
+	}
