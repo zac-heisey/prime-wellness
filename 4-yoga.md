@@ -10,7 +10,15 @@ layout: page
 ---
 
 ## RISE Yoga Class Descriptions & Monthly Schedule
+<!-- Vagaro Yoga Booking Button -->
+<ul class="actions">
+  <li><a href="https://www.vagaro.com/riseprimewellness/classes" class="button special book-btn" target="_blank">Book Your Yoga Class</a></li>
+</ul>
 _Schedule subject to change; Please check class schedules before booking_
+
+RISE Prime Wellness yoga is the first of its kind. Medically managed by a Doctor of [Physical Therapy](/physical-therapy), RPW yoga classes are small group classes. Unlike other studios, we cap our classes at 10 people. We believe that people move the best in a small guided setting. With small class sizes, our trained yoga instructors have more time to oversee their class attendees for a more safe and functional practice. With functional movement and mobility in mind, our yoga instructors have been trained to update your yoga practice with the understanding of human anatomy and functional needs. You will be introduced to dynamic stretching, functional balance training, and strengthening poses that will help you on and off the mat.
+
+All classes are available to all levels of students. Each class offers a variety of options for each pose and transition so that you can adjust your yoga class to your skill set and needs. For further information about each class style, please see our class description page. We look forward to seeing you on the mat!
 
 <!-- Yoga class descriptions -->
 <section id="flex-section">
@@ -41,20 +49,3 @@ _Schedule subject to change; Please check class schedules before booking_
     <p>Sculpt Yoga is an all-levels class that aims to challenge your practice by building internal heat, utilizing heating breath, and offering opportunities for advanced postures. With focus on core activation and building strength, you can expect a dynamic sequence that will challenge you to the next level.</p>
   </div>
 </section>
-
-
-<!-- Vagaro Yoga Booking Button -->
-<ul class="actions">
-  <li><a href="https://www.vagaro.com/riseprimewellness/classes" class="button special book-btn" target="_blank">Book Your Yoga Class</a></li>
-</ul>
-
-Yoga has been offered by thousands of practitioners in a variety of settings. Our goal at RISE Prime Wellness is to enhance the positive effects of yoga by providing complimentary health & wellness services and treatment options on top of a consistent yoga routine.
-
-RISE stands for Revolution In Self Evolution, and at [RISE Prime Wellness](/) we aim to be the revolution in yoga services. We offer a unique, intimate, and holistic yoga experience for our clients. Our small group yoga classes allow the participants to experience the full benefits of yoga in the way it was meant to be. For those that prefer a more traditional yoga experience, have no fear - we provide standard yoga classes as well. In addition, we offer specialized yoga classes and clinics, including but not limited to:
-
-- Prenatal Yoga
-- “Mommy and Me” Yoga
-- Yoga for Individuals Recovering from Athletic Injuries
-- Yoga For Runners
-- Sports Specific Yoga
-- Adolescent and Pediatric Yoga
