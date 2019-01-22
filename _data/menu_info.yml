@@ -8,11 +8,8 @@ navmenu:
   url: "/yoga"
 - title: Cryotherapy
   url: "/cryotherapy"
-- title: Physical Therapy
-  url: "/physical-therapy"
 - title: Other Services
   url: "/other-services"
 - title: Blog
   url: "/blog"
 ---
-
