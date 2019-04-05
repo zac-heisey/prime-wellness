@@ -38,7 +38,7 @@ All classes are available to all levels of students. Each class offers a variety
 <section id="flex-section">
   <div class="yoga-class-description">
     <h3>RISE Dynamic Yoga</h3>
-    <p>Rise Dynamic is a restorative, skillful class led by a doctor of Physical Therapy and aimed towards safely realigning joints, opening fascia, and recovering muscle damage. This class will counter active lifestyles and guide you to a healthy foundation for your body to operate to at its peak capacity.</p>
+    <p>Rise Dynamic is a restorative, skillful class developed by a doctor of Physical Therapy and aimed towards safely realigning joints, opening fascia, and recovering muscle damage. This class will counter active lifestyles and guide you to a healthy foundation for your body to operate to at its peak capacity.</p>
   </div>
   <div class="yoga-class-description">
     <h3>RISE Flow Yoga</h3>
