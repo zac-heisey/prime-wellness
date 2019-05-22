@@ -9,8 +9,6 @@ featured-image: uploads/prime-cryotherapy.jpg
 layout: page
 ---
 
-<p style="color: tomato; font-weight: bold;">NOTE: Cryotherapy will be unavailable May 20 & May 21</p>
-
 <!-- Vagaro Cyro Booking Button -->
 <ul class="actions">
   <li><a href="https://www.vagaro.com/riseprimewellness/services" class="button special book-btn" target="_blank">Book Your Cryo Session</a></li>
