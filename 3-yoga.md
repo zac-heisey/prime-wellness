@@ -23,29 +23,42 @@ All classes are available to all levels of students. Each class offers a variety
 <!-- Yoga class descriptions -->
 <section id="flex-section">
   <div class="yoga-class-description">
-    <h3>RISE Vinyasa Yoga</h3>
-    <p>Rise Vinyasa offers energetic sequences with fluid transitions and opportunities for advancing your practice. While maintaining a foundation that is accessible to all-levels, you will learn unique variations to postures, proper alignment techniques, and grow stronger and leaner.</p>
+    <h3>Yoga for Balance</h3>
+    <p>Balance is key to stay healthy, prevent injury and increase performance in activity throughout your lifetime. Improve your body’s ability to adapt to change, movement and functional balance. This class stimulates your body through changing positions and environments to improve your balance.</p>
   </div>
   <div class="yoga-class-description">
-    <h3>RISE Power Yoga</h3>
-    <p>RISE Power is an all-levels call that aims to challenge your practice by building internal heat, utilizing heating breath, and offering opportunities for advanced postures. With focus on core activation and building strength, you can expect a dynamic sequence that will challenge you to the next level.</p>
+    <h3>Yoga for Flexibility</h3>
+    <p>Improve your body’s mobility in this 60 minute class. Your muscles, fascia and soft tissues will thank you as you stretch through dynamic stretches. Both traditional yoga poses and functional stretching techniques will be used to address areas of stiffness. Breathe new life into your body with the gift of movement.</p>
   </div>
   <div class="yoga-class-description">
-    <h3>RISE Hatha Yoga</h3>
-    <p>Hatha is a gentle and basic yoga class with no flow between poses, which helps bring peace to the mind and body. Expect a slower-paced, stretching-focused class with some basic pranayama breathing exercises. Hatha classes are a good place to work on your alignment, learn relaxation techniques, and become comfortable with doing yoga while building strength and flexibility.</p>
+    <h3>Yoga for Strength</h3>
+    <p>Improve your body’s strength in an all level class that aims to challenge your practice by building internal heat, energizing breath, and strengthening poses. Students utilize their body weight and various dumbells to awaken their body through a dynamic sequence that will leave you feeling powerful!</p>
   </div>
 </section>
 <section id="flex-section">
   <div class="yoga-class-description">
-    <h3>RISE Dynamic Yoga</h3>
-    <p>Rise Dynamic is a restorative, skillful class developed by a doctor of Physical Therapy and aimed towards safely realigning joints, opening fascia, and recovering muscle damage. This class will counter active lifestyles and guide you to a healthy foundation for your body to operate to at its peak capacity.</p>
+    <h3>Yoga for Core and Arms</h3>
+    <p>Fire up your body with this 60 minute yoga class focused on two important areas of the body: core and arms. Improved core control helps to improve your balance, performance and coordination. This all levels class provides the tools for a more functionally strong core and arms so you can take on the world.</p>
   </div>
   <div class="yoga-class-description">
-    <h3>RISE Flow Yoga</h3>
-    <p>Rise Flow is an all-levels class promoting continuous movement and a connection to breath. Embodying a breath-to-movement pattern in every class, we will heat up internally, fire up the limbs, and then stretch it out releasing tension and stiffness as the class winds down. Perfect for building strength and flexibility!</p>
+    <h3>Yoga for Cardio</h3>
+    <p>This class offers energetic sequences that provokes your endurance by getting your heart pumping. This all levels class offers variations to meet students where they are and to provide challenge. These fast paced transitions will stimulate your cardiovascular system to spark improved health.</p>
   </div>
   <div class="yoga-class-description">
-    <h3>RISE Sculpt Yoga</h3>
-    <p>Sculpt Yoga is an all-levels class that aims to challenge your practice by building internal heat, utilizing heating breath, and offering opportunities for advanced postures. With focus on core activation and building strength, you can expect a dynamic sequence that will challenge you to the next level.</p>
+    <h3>Yoga for Back Health</h3>
+    <p>Learn how to improve and stabilize your back health in this 60 minute class. Various stretches to the back and surrounding hips will help to alleviate tension built up during everyday life. With improved mobility, you will transition into stabilizing and strengthening poses and movement to keep your back healthy for a lifetime.</p>
+  </div>
+</section>
+<section id="flex-section">
+  <div class="yoga-class-description">
+    <h3>Yoga for Sleep</h3>
+    <p>Prepare your body for sleep through gentle stretching and movement followed by yoga nidra and crystal sound vibration. Yoga nidra is often referred to as “yogic sleep,” a paradoxical state of being between sleep and consciousness that’s conducive to emotional and physical healing. You will be guided through mediation for self exploration to prepare your body for sleep.</p>
+  </div>
+  <div class="yoga-class-description">
+    <h3>Yoga for Healing</h3>
+    <p>Learn how the Power of 3 (breath, yoga, and meditation) can help you restore and renew balance in your mind and body. In this Healing Yoga Class, you will be guided through a series of Gentle Yoga postures and breathing techniques to help prepare and relax your mind and body for meditation. Practicing meditation regularly will help you manage stress, reduce anxiety, create inner peace, enhance your sleep patterns, lower your blood pressure and initiate healing.</p>
+  </div>
+  <div class="yoga-class-description">
+    <!-- Place Next Yoga Class Here -->
   </div>
 </section>
