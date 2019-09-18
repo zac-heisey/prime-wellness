@@ -56,7 +56,7 @@ Now imagine the health benefits that can be achieved when expert practitioners d
 
 ## Meet the Founder
 
-**Navid Hannanvash, PT, DPT, ATC, CSCS, CAFS, FAFS**
+**Navid Hannanvash, PT, DPT, CSCS, FMR, CAFS, FAFS, AT Ret.**
 
 Dr. Navid Hannanvash is a world-renowned Physical Therapist, athletic trainer, strength and conditioning specialist, Fellow of Applied Functional Science, and entrepreneur. His unique expertise in the medical and business worlds have led him to establish RISE Prime Wellness as a holistic [health & wellness clinic](/).
 
