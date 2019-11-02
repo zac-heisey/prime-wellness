@@ -9,7 +9,7 @@ featured-image: uploads/prime-cryotherapy.jpg
 layout: page
 ---
 
-<!-- Vagaro Cyro Booking Button -->
+<!-- Vagaro Cryo Booking Button -->
 <ul class="actions">
   <li><a href="https://www.vagaro.com/riseprimewellness/services" class="button special book-btn" target="_blank">Book Your Cryo Session</a></li>
 </ul>
