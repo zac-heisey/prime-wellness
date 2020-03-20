@@ -2,7 +2,7 @@
 
 **URL:** [www.riseprimewellness.com](https://www.riseprimewellness.com)
 
-**Developed By:** [Sage Web Co.](https://www.sageweb.co)
+**Developed By:** [Zac Heisey](https://www.zac-heisey.com)
 
 ## Credits
 
