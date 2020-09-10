@@ -9,6 +9,8 @@ featured-image: uploads/prime-cryotherapy.jpg
 layout: page
 ---
 
+**COVID-19 UPDATE:** Cryotherapy is available 8am - 5pm by appointment only. Please <a href="#contact">contact us</a> to schedule your next cryo session.
+
 <!-- Vagaro Cryo Booking Button -->
 <ul class="actions">
   <li><a href="https://www.vagaro.com/riseprimewellness/services" class="button special book-btn" target="_blank">Book Your Cryo Session</a></li>
