@@ -9,8 +9,6 @@ featured-image: uploads/prime-cryotherapy.jpg
 layout: page
 ---
 
-**COVID-19 UPDATE:** Cryotherapy is available Monday through Friday 8am - 5pm and 1pm - 5pm. We are also open Sunday 9am - 2pm. Please <a href="#contact">contact us</a> to schedule your next cryo session.
-
 <!-- Vagaro Cryo Booking Button -->
 <ul class="actions">
   <li><a href="https://www.vagaro.com/riseprimewellness/services" class="button special book-btn" target="_blank">Book Your Cryo Session</a></li>
