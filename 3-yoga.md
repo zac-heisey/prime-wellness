@@ -11,7 +11,7 @@ layout: page
 
 ## RISE Yoga Class Descriptions & Monthly Schedule
 
-**COVID-19 UPDATE:** Yoga is available via Zoom. Please review our upcoming virtual <a href="/schedule">class schedule</a> to book your next yoga class.
+**COVID-19 UPDATE:** Yoga is available in-studio and via Zoom. Please review our upcoming virtual <a href="https://www.vagaro.com/riseprimewellness/classes" target="_blank">class schedule</a> to book your next yoga class.
 
 <!-- Vagaro Yoga Booking Button -->
 <ul class="actions">
