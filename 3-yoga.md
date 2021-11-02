@@ -81,29 +81,10 @@ All classes are available to all levels of students. Each class offers a variety
     <p>Rebecca’s educational background is in Biology and she has been teaching Yoga for 17 years. She is also a certified Primordial Sound Meditation instructor, receiving her training at the Chopra Center, founded by Dr. Deepak Chopra. “I experienced the powerful miracle of self-healing. I am forever changed because of it, and now I want to teach others that they are the healer and the healed. Healing comes from connecting within. I feel inspired every time I connect to my inner-self through my yoga and meditation practice. The more I am connected to who I really am, the more I want to be a source of peace, light and love for others.”</p>
   </div>
   <div class="yoga-instructor-bio">
-    <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/buket.jpg" alt="buket headshot">
-    <h3>Buket</h3>
-    <p>Moving to the United States gave Buket the opportunity to pursue her passion for well being, fitness and living a holistic healthy lifestyle. She took her first Reiki and breathing techniques training while she was a competitive archer on the Turkish national team during and after her university education. She completed her 200 hour YTT from Core Power Yoga. Her classes are rooted in the Vinyasa and Hatha style with an emphasis on alignment and breath awareness. Routines are designed to encourage a continuous flow in & out of postures with coordinated breath control. “I don’t pursue extreme, distorted poses in Yoga. I strive for balance in considering the whole body, mind and spirit in a lifelong approach”.</p>
-  </div>
-</section>
-<section id="flex-section">
-  <div class="yoga-instructor-bio">
-    <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/leila.jpg" alt="leila headshot">
-    <h3>Leila</h3>
-    <p>Leila discovered yoga in 2000 when she was in college and has been dedicated to her own practice ever since. In 2011, she pursued teacher training through the Awakened Heart Embodied Mind school of yoga at Exhale in Venice, California. Her instruction emphasized correct alignment, injury prevention, and personal responsibility in practice and teaching, the mind-body relationship, especially looking at the ways that trauma lives in the body, the ways that breath can facilitate healing, and the fascinating advances in Neuroscience that support this understanding. Her own approach as a teacher is rooted in mindfulness, bringing a loving awareness to body and breath. She delivers a gentle, relaxing practice for beginners, and a deep vinyasa flow for more experienced yogis, creating space for everyone to find the inner rhythms to guide their practice. She is also an avid dancer and enthusiastic about welcoming ecstatic movement into or after a more structured practice.</p>
-  </div>
-  <div class="yoga-instructor-bio">
     <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/jesi.jpg" alt="jesi headshot">
     <h3>Jesi</h3>
     <p>Jesi, as her friends and students call her, developed her creative teaching style through years of working as an artist. She has been practicing different styles of yoga and teaching authentically comes across in her personality. Her mantra is "Live your yoga." She continuously learns from her students and peers, knowing we are all forever students. She brings her creativity as an artist into each yoga class she teaches. She is currently a yoga therapist in training at the soul of yoga branching out to help people heal on a yogic level using movement, breath and meditation.</p>
   </div>
-  <div class="yoga-instructor-bio">
-    <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/janelle.jpg" alt="janelle headshot">
-    <h3>Janelle</h3>
-    <p>Janelle was born and raised in Miami, FL and has always enjoyed an active lifestyle. She received her Yoga Sculpt Instructor certification in 2017 after personally practicing yoga for over 12 years. Janelle competed collegiately in wakeboarding at the University of Florida before moving to San Diego in 2012 to pursue a Masters degree in Public Health and in Social Work. She manages a community health clinic during the week and is passionate about helping others. When she's not practicing yoga, you can find her boating with her husband Alex and their dog Jackson.</p>
-  </div>
-</section>
-<section id="flex-section">
   <div class="yoga-instructor-bio">
     <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/jessica.jpg" alt="jessica headshot">
     <h3>Jessica</h3>
