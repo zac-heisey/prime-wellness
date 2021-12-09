@@ -20,7 +20,7 @@ Whole Body Cryotherapy is a process by which a person enters a chamber with the 
 
 Cryotherapy has several applications in the areas of athletic training, recovery, injury rehabilitation, health, and general wellness. Some of the primary user cases of cryotherapy include:
 
-<section id="flex-section">
+<section class="grid-section">
   <ul class="cryo-use-list">
     <h2>Sports and Fitness</h2>
     <li>Decreases Muscle Soreness, Pain and Inflammation</li>

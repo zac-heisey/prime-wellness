@@ -25,7 +25,7 @@ All classes are available to all levels of students. Each class offers a variety
 
 ## Our Yoga Classes
 <!-- Yoga class descriptions -->
-<section id="flex-section">
+<section class="grid-section">
   <div class="yoga-class-description">
     <h3>Yoga for Balance</h3>
     <p>Balance is key to stay healthy, prevent injury and increase performance in activity throughout your lifetime. Improve your body’s ability to adapt to change, movement and functional balance. This class stimulates your body through changing positions and environments to improve your balance.</p>
@@ -39,7 +39,7 @@ All classes are available to all levels of students. Each class offers a variety
     <p>Improve your body’s strength in an all level class that aims to challenge your practice by building internal heat, energizing breath, and strengthening poses. Students utilize their body weight and various dumbells to awaken their body through a dynamic sequence that will leave you feeling powerful!</p>
   </div>
 </section>
-<section id="flex-section">
+<section class="grid-section">
   <div class="yoga-class-description">
     <h3>Yoga for Core and Arms</h3>
     <p>Fire up your body with this 60 minute yoga class focused on two important areas of the body: core and arms. Improved core control helps to improve your balance, performance and coordination. This all levels class provides the tools for a more functionally strong core and arms so you can take on the world.</p>
@@ -53,7 +53,7 @@ All classes are available to all levels of students. Each class offers a variety
     <p>Learn how to improve and stabilize your back health in this 60 minute class. Various stretches to the back and surrounding hips will help to alleviate tension built up during everyday life. With improved mobility, you will transition into stabilizing and strengthening poses and movement to keep your back healthy for a lifetime.</p>
   </div>
 </section>
-<section id="flex-section">
+<section class="grid-section">
   <div class="yoga-class-description">
     <h3>Yoga for Sleep</h3>
     <p>Prepare your body for sleep through gentle stretching and movement followed by yoga nidra and crystal sound vibration. Yoga nidra is often referred to as “yogic sleep,” a paradoxical state of being between sleep and consciousness that’s conducive to emotional and physical healing. You will be guided through mediation for self exploration to prepare your body for sleep.</p>
@@ -69,7 +69,7 @@ All classes are available to all levels of students. Each class offers a variety
 
 ## Our Yoga Instructors
 <!-- Yoga instructor bios -->
-<section id="flex-section">
+<section class="grid-section">
   <div class="yoga-instructor-bio">
     <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/alex.jpg" alt="alex headshot">
     <h3>Alex</h3>
@@ -89,5 +89,15 @@ All classes are available to all levels of students. Each class offers a variety
     <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/jessica.jpg" alt="jessica headshot">
     <h3>Jessica</h3>
     <p>Jessica grew up with a background in ballet, she started dancing at age 3 and has always had a passion for mind and body awareness. Her yoga journey began 15 years ago as an attempt to heal an injury from dance. She fell in love with yoga by its ability to heighten awareness, and overtime found that yoga is not only a practice but a way of life. She honors the connection that yoga gives to ourselves, to each other, and to our surroundings. In 2015 Jessica received her 200 hour RYT under Bea Raydo and ever since on and off the mat she is excited to share the many benefits of yoga with others.</p>
+  </div>
+  <div class="yoga-instructor-bio">
+    <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/courtney.jpg" alt="courtney headshot">
+    <h3>Courtney</h3>
+    <p>Courtney grew up in San Diego and focuses on living a healthy and active lifestyle. She has been practicing yoga since 2010 and received her 200 hour vinyasa training at Riffs in Bird Rock. Courtney taught English in Spain for two years, where she discovered her passion for teaching and creating a sense of community. She loves teaching vinyasa yoga but also enjoys teaching slow flow because she believes balance is important. Although her vinyasa classes are quick moving, she is very intentional with each pose and transition. Courtney enjoys wakeboarding, surfing, traveling, reading, hiking and volunteering. Yoga inspires her to live each moment more mindfully.</p>
+  </div>
+  <div class="yoga-instructor-bio">
+    <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/aneesa.jpg" alt="courtney headshot">
+    <h3>Aneesa</h3>
+    <p>Aneesa retired from engineering and subsequently completed Yoga Teacher Training in 2015. She also has Yin Yoga certification, Prenatal Yoga Certification, attended many workshops and is hungry for knowledge. Having practiced Ashtanga, Bikram, Vinyasa, Yin, Gentle and Restorative styles of yoga, Aneesa combines asanas from different styles, keeping every yoga practice unique and customized to the yogi’s in class. Aneesa’s classes will challenge your strength, balance and flexibility. As an active retiree, she believes that the practice of yoga will keep us mobile as we age, and that yoga is for everybody and every body.</p>
   </div>
 </section>

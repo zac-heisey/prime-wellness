@@ -23,7 +23,7 @@ The standalone benefits of our core health and wellness offerings are widely und
 
 Now imagine the health benefits that can be achieved when expert practitioners develop individualized treatment plans that combine these disciplines to deliver a truly holistic wellness experience. That is what RISE Prime Wellness aims to accomplish.
 
-<section id="flex-section">
+<section class="grid-section">
   <ul class="about-us-list">
     <h3>Standalone Benefits: Physical Therapy</h3>
     <li>Decreased Pain</li>
