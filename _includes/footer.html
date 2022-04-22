@@ -2,7 +2,7 @@
 <section id="contact">
 	<div class="inner">
 		<section>
-			<form name="Contact Form" method="POST" netlify-honepot="bot-field" id="contact-form" action="/thank-you/" netlify>
+			<form name="Contact Form" method="POST" data-netlify-recaptcha="true" netlify-honepot="bot-field" id="contact-form" action="/thank-you/" netlify>
 				<!-- Honeypot Field -->
         <p class="hidden">
           <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
@@ -32,6 +32,8 @@
 					<label for="message">Message</label>
 					<textarea name="message" id="message" rows="4" required></textarea>
 				</div>
+				<!-- Netlify reCAPTCHA -->
+				<div data-netlify-recaptcha="true"></div>
 				<ul class="actions">
 					<li><input type="submit" value="Send Message" class="special"></li>
 					<li><input type="reset" value="Clear"></li>
