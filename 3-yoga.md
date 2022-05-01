@@ -11,9 +11,10 @@ layout: page
 
 ## RISE Yoga Class Descriptions & Monthly Schedule
 
-<!-- Vagaro Yoga Booking Button -->
+<!-- Vagaro Yoga Booking & Waiver Links -->
 <ul class="actions">
   <li><a href="https://www.vagaro.com/riseprimewellness/classes" class="button special book-btn" target="_blank">Book Your Yoga Class</a></li>
+  <li><a href="https://forms.vagaro.com/626addc97f702f9cace207e8" class="button " target="_blank">Complete Your Yoga Waiver</a></li>
 </ul>
 _Schedule subject to change; Please check class schedules before booking_
 
