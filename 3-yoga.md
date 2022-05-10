@@ -70,24 +70,9 @@ All classes are available to all levels of students. Each class offers a variety
 <!-- Yoga instructor bios -->
 <section class="grid-section">
   <div class="yoga-instructor-bio">
-    <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/alex.jpg" alt="alex headshot">
-    <h3>Alex</h3>
-    <p>Alex has been teaching yoga since 2012. Her passion is to share the benefits of yoga practice with others. She brings a rich understanding of yoga gained from multiple yoga teacher trainings and certifications, and her classes are for everyone, from beginners to seasoned practitioners. Her classes will help improve mobility, flexibility, build functional strength, core strength, and will help you stay centered and present. Every class is different, every time, and she may incorporate: aromatherapy, pranayama (breathing techniques), visualization, meditation, and mudras (hand gestures).</p>
-  </div>
-  <div class="yoga-instructor-bio">
-    <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/rebecca.jpg" alt="rebecca headshot">
-    <h3>Rebecca</h3>
-    <p>Rebecca’s educational background is in Biology and she has been teaching Yoga for 17 years. She is also a certified Primordial Sound Meditation instructor, receiving her training at the Chopra Center, founded by Dr. Deepak Chopra. “I experienced the powerful miracle of self-healing. I am forever changed because of it, and now I want to teach others that they are the healer and the healed. Healing comes from connecting within. I feel inspired every time I connect to my inner-self through my yoga and meditation practice. The more I am connected to who I really am, the more I want to be a source of peace, light and love for others.”</p>
-  </div>
-  <div class="yoga-instructor-bio">
     <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/jesi.jpg" alt="jesi headshot">
     <h3>Jesi</h3>
     <p>Jesi, as her friends and students call her, developed her creative teaching style through years of working as an artist. She has been practicing different styles of yoga and teaching authentically comes across in her personality. Her mantra is "Live your yoga." She continuously learns from her students and peers, knowing we are all forever students. She brings her creativity as an artist into each yoga class she teaches. She is currently a yoga therapist in training at the soul of yoga branching out to help people heal on a yogic level using movement, breath and meditation.</p>
-  </div>
-  <div class="yoga-instructor-bio">
-    <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/jessica.jpg" alt="jessica headshot">
-    <h3>Jessica</h3>
-    <p>Jessica grew up with a background in ballet, she started dancing at age 3 and has always had a passion for mind and body awareness. Her yoga journey began 15 years ago as an attempt to heal an injury from dance. She fell in love with yoga by its ability to heighten awareness, and overtime found that yoga is not only a practice but a way of life. She honors the connection that yoga gives to ourselves, to each other, and to our surroundings. In 2015 Jessica received her 200 hour RYT under Bea Raydo and ever since on and off the mat she is excited to share the many benefits of yoga with others.</p>
   </div>
   <div class="yoga-instructor-bio">
     <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/courtney.jpg" alt="courtney headshot">
@@ -95,8 +80,13 @@ All classes are available to all levels of students. Each class offers a variety
     <p>Courtney grew up in San Diego and focuses on living a healthy and active lifestyle. She has been practicing yoga since 2010 and received her 200 hour vinyasa training at Riffs in Bird Rock. Courtney taught English in Spain for two years, where she discovered her passion for teaching and creating a sense of community. She loves teaching vinyasa yoga but also enjoys teaching slow flow because she believes balance is important. Although her vinyasa classes are quick moving, she is very intentional with each pose and transition. Courtney enjoys wakeboarding, surfing, traveling, reading, hiking and volunteering. Yoga inspires her to live each moment more mindfully.</p>
   </div>
   <div class="yoga-instructor-bio">
-    <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/aneesa.jpg" alt="courtney headshot">
-    <h3>Aneesa</h3>
-    <p>Aneesa retired from engineering and subsequently completed Yoga Teacher Training in 2015. She also has Yin Yoga certification, Prenatal Yoga Certification, attended many workshops and is hungry for knowledge. Having practiced Ashtanga, Bikram, Vinyasa, Yin, Gentle and Restorative styles of yoga, Aneesa combines asanas from different styles, keeping every yoga practice unique and customized to the yogi’s in class. Aneesa’s classes will challenge your strength, balance and flexibility. As an active retiree, she believes that the practice of yoga will keep us mobile as we age, and that yoga is for everybody and every body.</p>
+    <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/janene.jpg" alt="janene's headshot">
+    <h3>Janene</h3>
+    <p>Janene's yoga journey began with a VHS tape back when VCR’s existed and cavemen still roamed the earth! Since then, she has practiced ashtanga, vinyasa, and hot yoga. Janene believes the true meaning of yoga, to be “the study of the self”. She registered with Yoga Alliance and holds certificates in Gentle Yoga. Janene is continuing her education to be a yoga therapist. Her teaching style incorporates not only physical poses but breathwork, meditation, and a little bit of fun! She believes regardless of body shape, age, or physical ability, yoga truly is for everyBODY! Whether you are super bendy or think you are not flexible at all, come join Janene’s class where you will discover having a flexible mind to be one of life’s greatest assets and more important than touching your toes.</p>
+  </div>
+  <div clas="yoga-instructor-bio">
+    <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/dani.jpg" alt="dani's headshot">
+    <h3>Dani</h3>
+    <p>Dani began practicing yoga over a decade ago and was immediately drawn in by the sense of inner peace and connectedness felt through this seemingly physical practice. Dani hopes to empower her students to slow down, and feel every aspect of their practice to ultimately connect with every part of themselves. “I feel in today’s world, the tendency is to always keep pushing through and not necessarily take the time to pause, connect, and FEEL in the present. In this place of presence and connection, healing can truly take place. Yoga was the cure that gave me a sense of peace, ease, hope, grounding and sense of security that I had never felt before and I am humbled to be able to now share this “cure” with others.”</p>
   </div>
 </section>
