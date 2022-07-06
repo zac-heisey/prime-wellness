@@ -79,11 +79,6 @@ All classes are available to all levels of students. Each class offers a variety
     <h3>Courtney</h3>
     <p>Courtney grew up in San Diego and focuses on living a healthy and active lifestyle. She has been practicing yoga since 2010 and received her 200 hour vinyasa training at Riffs in Bird Rock. Courtney taught English in Spain for two years, where she discovered her passion for teaching and creating a sense of community. She loves teaching vinyasa yoga but also enjoys teaching slow flow because she believes balance is important. Although her vinyasa classes are quick moving, she is very intentional with each pose and transition. Courtney enjoys wakeboarding, surfing, traveling, reading, hiking and volunteering. Yoga inspires her to live each moment more mindfully.</p>
   </div>
-  <div class="yoga-instructor-bio">
-    <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/janene.jpg" alt="janene's headshot">
-    <h3>Janene</h3>
-    <p>Janene's yoga journey began with a VHS tape back when VCR’s existed and cavemen still roamed the earth! Since then, she has practiced ashtanga, vinyasa, and hot yoga. Janene believes the true meaning of yoga, to be “the study of the self”. She registered with Yoga Alliance and holds certificates in Gentle Yoga. Janene is continuing her education to be a yoga therapist. Her teaching style incorporates not only physical poses but breathwork, meditation, and a little bit of fun! She believes regardless of body shape, age, or physical ability, yoga truly is for everyBODY! Whether you are super bendy or think you are not flexible at all, come join Janene’s class where you will discover having a flexible mind to be one of life’s greatest assets and more important than touching your toes.</p>
-  </div>
   <div clas="yoga-instructor-bio">
     <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/dani.jpg" alt="dani's headshot">
     <h3>Dani</h3>
