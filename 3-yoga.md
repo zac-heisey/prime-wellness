@@ -84,4 +84,9 @@ All classes are available to all levels of students. Each class offers a variety
     <h3>Dani</h3>
     <p>Dani began practicing yoga over a decade ago and was immediately drawn in by the sense of inner peace and connectedness felt through this seemingly physical practice. Dani hopes to empower her students to slow down, and feel every aspect of their practice to ultimately connect with every part of themselves. “I feel in today’s world, the tendency is to always keep pushing through and not necessarily take the time to pause, connect, and FEEL in the present. In this place of presence and connection, healing can truly take place. Yoga was the cure that gave me a sense of peace, ease, hope, grounding and sense of security that I had never felt before and I am humbled to be able to now share this “cure” with others.”</p>
   </div>
+  <div clas="yoga-instructor-bio">
+    <img src="https://res.cloudinary.com/zheisey/image/upload/f_auto/Prime/aash.jpg" alt="Aashna's headshot">
+    <h3>Aashna</h3>
+    <p>Aashna was introduced to Yoga 20 years ago after a back injury took her off the sports field. Back then, yoga mats ceased to exist and she vividly remembers learning the art of asana and meditation in a small, simple dwelling in Northern India. Across the decades, regardless of country, continent or survival funds, yoga has been Aashna’s physical and mental therapy - showing up for her when she least expected and most often, when times got stressful and she was on the brink of big life decisions. Many moons later, Aashna finally decided to deepen her practice by becoming a certified yoga teacher alongside her corporate career. As a true believer in the power of this sacred, ancient practice, she thrives on supporting individuals from all walks of life with their own journey's, so they too can take baby steps to nourish their souls, one breath at a time.</p>
+  </div>
 </section>
