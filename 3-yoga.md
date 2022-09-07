@@ -26,43 +26,26 @@ All classes are available to all levels of students. Each class offers a variety
 <!-- Yoga class descriptions -->
 <section class="grid-section">
   <div class="yoga-class-description">
-    <h3>Yoga for Balance</h3>
-    <p>Balance is key to stay healthy, prevent injury and increase performance in activity throughout your lifetime. Improve your body’s ability to adapt to change, movement and functional balance. This class stimulates your body through changing positions and environments to improve your balance.</p>
+    <h3>Slow Flow</h3>
+    <p>You will enjoy a gentle ease into class by focusing on breathing techniques, calming breath and mind, followed by gentle opening movements to warm your body up. You will continue using breath to move throughout the class, building postures from the ground up.</p>
   </div>
   <div class="yoga-class-description">
-    <h3>Yoga for Flexibility</h3>
-    <p>Improve your body’s mobility in this 60 minute class. Your muscles, fascia and soft tissues will thank you as you stretch through dynamic stretches. Both traditional yoga poses and functional stretching techniques will be used to address areas of stiffness. Breathe new life into your body with the gift of movement.</p>
+    <h3>Ground & Flow</h3>
+    <p>This class combines steady movement, music, and deep stretching to round off the day and prepare your body for rest. In this 60 minute class, students will also be introduced to basic meditation techniques to help restore, rejuvenate, and support deeper mind-body connection with oneself.</p>
   </div>
   <div class="yoga-class-description">
-    <h3>Yoga for Strength</h3>
-    <p>Improve your body’s strength in an all level class that aims to challenge your practice by building internal heat, energizing breath, and strengthening poses. Students utilize their body weight and various dumbells to awaken their body through a dynamic sequence that will leave you feeling powerful!</p>
-  </div>
-</section>
-<section class="grid-section">
-  <div class="yoga-class-description">
-    <h3>Yoga for Core and Arms</h3>
-    <p>Fire up your body with this 60 minute yoga class focused on two important areas of the body: core and arms. Improved core control helps to improve your balance, performance and coordination. This all levels class provides the tools for a more functionally strong core and arms so you can take on the world.</p>
-  </div>
-  <div class="yoga-class-description">
-    <h3>Yoga for Cardio</h3>
-    <p>This class offers energetic sequences that provokes your endurance by getting your heart pumping. This all levels class offers variations to meet students where they are and to provide challenge. These fast paced transitions will stimulate your cardiovascular system to spark improved health.</p>
-  </div>
-  <div class="yoga-class-description">
-    <h3>Yoga for Back Health</h3>
-    <p>Learn how to improve and stabilize your back health in this 60 minute class. Various stretches to the back and surrounding hips will help to alleviate tension built up during everyday life. With improved mobility, you will transition into stabilizing and strengthening poses and movement to keep your back healthy for a lifetime.</p>
+    <h3>Gentle Restorative</h3>
+    <p>This class will begin with gentle mindful movements easing into restorative yoga. Restorative yoga is a restful practice that is all about slowing down, and opening your body through passive stretching. Yoga postures are held longer than conventional yoga as exercise, and will be supported with yoga props such as folded blankets and bolsters. This class will help your mind and body feel relaxed, and will reduce stress.</p>
   </div>
 </section>
 <section class="grid-section">
   <div class="yoga-class-description">
-    <h3>Yoga for Sleep</h3>
-    <p>Prepare your body for sleep through gentle stretching and movement followed by yoga nidra and crystal sound vibration. Yoga nidra is often referred to as “yogic sleep,” a paradoxical state of being between sleep and consciousness that’s conducive to emotional and physical healing. You will be guided through mediation for self exploration to prepare your body for sleep.</p>
+    <h3>Soulful Yoga</h3>
+    <p>A meditational yoga flow designed to reconnect you with your breath, your body and your soul. Intentional time to create oneness with your truest self through asanas, mantras and moment. Embrace Authenticity and Create Oneness.</p>
   </div>
   <div class="yoga-class-description">
-    <h3>Yoga for Healing</h3>
-    <p>Learn how the Power of 3 (breath, yoga, and meditation) can help you restore and renew balance in your mind and body. In this Healing Yoga Class, you will be guided through a series of Gentle Yoga postures and breathing techniques to help prepare and relax your mind and body for meditation. Practicing meditation regularly will help you manage stress, reduce anxiety, create inner peace, enhance your sleep patterns, lower your blood pressure and initiate healing.</p>
-  </div>
-  <div class="yoga-class-description">
-    <!-- Place Next Yoga Class Here -->
+    <h3>Connect & Reset</h3>
+    <p>Process the happenings of the week and hit the reset button for the week to come. Through this practice, you will be guided to connect to your inner self through breathwork and brief meditation. Then, gently flow through postures that work into the areas of the body that tend to hold stress, tension, and unprocessed emotion. This practice is accessible to yogis at any level, especially to beginners and those looking for a gentle reset to the system.</p>
   </div>
 </section>
 
